@@ -34,6 +34,7 @@ input.addEventListener('paste', checkInput);
 function checkInput() {
   setTimeout(function () {
     var val = input.value.trim()[0];
+    console.log('val', val);
     var curchar = hundred[current][1];
     if (val === curchar) {
       input.value = '';
