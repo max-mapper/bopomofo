@@ -10,11 +10,14 @@
       margin: 0;
       padding: 0;
     }
-    input {
+    input[type="text"] {
       display: block;
       clear: both;
       border: 1px solid grey;
       width: 75%;
+    }
+    .buttons input {
+      width: 75px;
     }
     img {
       width: 35%;
@@ -32,6 +35,13 @@
   <body>
     <div class="content"></div>
     <input type="text"></input>
+    <div class="buttons">
+      <input class="hundred" type="button" value="100"></input>
+      <input class="threehundred" type="button" value="300"></input>
+      <input class="random" type="button" value="random"></input>
+      <input class="previous" type="button" value="previous"></input>
+      <input class="next" type="button" value="next"></input>
+    </div>
     <script src="bundle.js"></script>
   </body>
 </html>
