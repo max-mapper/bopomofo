@@ -5,12 +5,11 @@ var current
 var interval
 var content = document.querySelector('.content')
 
-render(98)
+render(0)
 
 function render (num) {
   current = num
   var code = hundred[current][1].charCodeAt(0)
-  content.innerHTML = ""
   var str = svgs[current]
   str = str.replace('<svg ', '<svg foo="' + Date.now() + '" ') // force re-animation
   var b64 = "data:image/svg+xml;base64," + new Buffer(str).toString('base64')
@@ -25,7 +24,7 @@ function render (num) {
       </ul>
     </div>
   `
-  content.appendChild(html)
+  yo.update(content, html)
   clearInterval(interval)
   interval = setInterval(function () {
     render(current)

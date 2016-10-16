@@ -19,7 +19,13 @@
   "devDependencies": {
     "wzrd": "^1.4.0"
   },
+  "browserify": {
+    "transform": [
+      "es2020"
+    ]
+  },
   "dependencies": {
+    "es2020": "^1.1.9",
     "wzrd": "^1.4.0",
     "yo-yo": "^1.3.0"
   },
