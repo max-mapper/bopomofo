@@ -45,6 +45,10 @@ document.querySelector('.speak').addEventListener('click', function () {
   window.speechSynthesis.speak(msg)
 })
 
+document.querySelector('.taiwan').addEventListener('click', function () {
+  alert('yep')
+})
+
 render(0)
 
 function render (num) {
