@@ -39,6 +39,12 @@ document.querySelector('.next').addEventListener('click', function () {
   render(state.current + 1)
 })
 
+document.querySelector('.speak').addEventListener('click', function () {
+  var msg = new SpeechSynthesisUtterance(state.data[state.current][1][0])
+  msg.lang = 'zh-TW'
+  window.speechSynthesis.speak(msg)
+})
+
 render(0)
 
 function render (num) {
