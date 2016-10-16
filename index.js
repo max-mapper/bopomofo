@@ -4,6 +4,7 @@ var svgs = require('./one-hundred-svgs.json')
 var current
 var interval
 var content = document.querySelector('.content')
+var input = document.querySelector('input')
 
 render(0)
 
@@ -14,7 +15,7 @@ function render (num) {
   str = str.replace('<svg ', '<svg foo="' + Date.now() + '" ') // force re-animation
   var b64 = "data:image/svg+xml;base64," + new Buffer(str).toString('base64')
   var html = yo`
-    <div>
+    <div class="content">
       <img src=${b64}></img>
       <ul>
         <li>${hundred[current][1]}</li>
@@ -31,15 +32,15 @@ function render (num) {
   }, 7000)
 }
 
-document.body.addEventListener('keypress', checkInput)
-document.body.addEventListener('paste', checkInput)
+input.addEventListener('keypress', checkInput)
+input.addEventListener('paste', checkInput)
 
 function checkInput () {
   setTimeout(function () {
-    var val = document.querySelector('input').value.trim()[0]
+    var val = input.value.trim()[0]
     var curchar = hundred[current][1]
     if (val === curchar) {
-      document.querySelector('input').value = ''
+      input.value = ''
       var next = current + 1
       if (hundred[next] === undefined) next = 0
       render(next)

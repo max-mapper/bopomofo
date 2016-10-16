@@ -1,6 +1,6 @@
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
 (function (Buffer){
-var _templateObject = _taggedTemplateLiteral(['\n    <div>\n      <img src=', '></img>\n      <ul>\n        <li>', '</li>\n        <li>', '</li>\n        <li>', '</li>\n        <li class="comment">', '</li>\n      </ul>\n    </div>\n  '], ['\n    <div>\n      <img src=', '></img>\n      <ul>\n        <li>', '</li>\n        <li>', '</li>\n        <li>', '</li>\n        <li class="comment">', '</li>\n      </ul>\n    </div>\n  ']);
+var _templateObject = _taggedTemplateLiteral(['\n    <div class="content">\n      <img src=', '></img>\n      <ul>\n        <li>', '</li>\n        <li>', '</li>\n        <li>', '</li>\n        <li class="comment">', '</li>\n      </ul>\n    </div>\n  '], ['\n    <div class="content">\n      <img src=', '></img>\n      <ul>\n        <li>', '</li>\n        <li>', '</li>\n        <li>', '</li>\n        <li class="comment">', '</li>\n      </ul>\n    </div>\n  ']);
 
 function _taggedTemplateLiteral(strings, raw) { return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
 
@@ -10,6 +10,7 @@ var svgs = require('./one-hundred-svgs.json');
 var current;
 var interval;
 var content = document.querySelector('.content');
+var input = document.querySelector('input');
 
 render(0);
 
@@ -27,15 +28,15 @@ function render(num) {
   }, 7000);
 }
 
-document.body.addEventListener('keypress', checkInput);
-document.body.addEventListener('paste', checkInput);
+input.addEventListener('keypress', checkInput);
+input.addEventListener('paste', checkInput);
 
 function checkInput() {
   setTimeout(function () {
-    var val = document.querySelector('input').value.trim()[0];
+    var val = input.value.trim()[0];
     var curchar = hundred[current][1];
     if (val === curchar) {
-      document.querySelector('input').value = '';
+      input.value = '';
       var next = current + 1;
       if (hundred[next] === undefined) next = 0;
       render(next);
