@@ -519,7 +519,7 @@ var Bopomofo = function (str) {
 
       _output = _output.replace(_pbdx[p] + '1', _pbdx[p]);
       _output = _output.replace(_pbdx[p] + '2', _pbdx[p] + BPMF_TONES['2']);
-      _output = _output.replace(_pbdx[p] + '3', _pbdx[p] + BPMF_TONES['2']);
+      _output = _output.replace(_pbdx[p] + '3', _pbdx[p] + BPMF_TONES['3']);
       _output = _output.replace(_pbdx[p] + '4', _pbdx[p] + BPMF_TONES['4']);
       _output = _output.replace(_pbdx[p] + '5', _pbdx[p] + BPMF_TONES['5']);
     }
