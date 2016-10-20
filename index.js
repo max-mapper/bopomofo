@@ -1,4 +1,5 @@
 var yo = require('yo-yo')
+var bpmf = require('./bopomofo.js')
 var hundred = require('./one-hundred-common.json')
 var svgs = require('./one-hundred-svgs.json')
 var threehundred = require('./three-hundred-common.json')
@@ -6,6 +7,8 @@ var threesvgs = require('./three-hundred-svgs.json')
 var interval
 var content = document.querySelector('.content')
 var input = document.querySelector('input')
+
+window.bpmf = bpmf
 
 var state = {
   svgs: svgs,
@@ -57,13 +60,15 @@ function render (num) {
   var str = state.svgs[state.current]
   str = str.replace('<svg ', '<svg foo="' + Date.now() + '" ') // force re-animation
   var b64 = "data:image/svg+xml;base64," + new Buffer(str).toString('base64')
+  var pinyin = state.data[state.current][4]
   var html = yo`
     <div class="content">
       <img src=${b64}></img>
       <ul>
         <li>${state.data[state.current][1]}</li>
         <li>${state.data[state.current][3]}</li>
-        <li>${state.data[state.current][4]}</li>
+        <li>${pinyin}</li>
+        <li>${bpmf(pinyin)}</li>
         <li class="comment">${state.data[state.current][6]}</li>
       </ul>
     </div>

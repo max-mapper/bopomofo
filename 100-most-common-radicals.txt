@@ -1,7 +1,7 @@
 人	人	亻	human, person, people	ren2	今仁休位他	Note similarity with 八, which means eight.	单人旁（亻），人字头（人）
 口	口		mouth, opening	kou3	古可名告知	Note similarity with 囗, which always encloses characters, and means enclosure.	口字旁
 土	土		earth	tu3	在地型城地	Note similarity with 士, which has a longer upper stroke and shorter bottom one, and means scholar.	提土旁
-女	女		woman, female	nv3	好妄始姓安		女子旁
+女	女		woman, female	nu3	好妄始姓安		女子旁
 心	心	忄，⺗	heart	xin1	必忙忘性想		竖心旁（忄），心字底（心），竖心底（⺗）
 手	手	扌，龵	hand	shou3	持掌打抱押		提手旁（扌），看字头（龵），手字旁（手）
 日	日		sun, day	ri4	白百明时晩	Note similarity with 曰, which is broader and lower, and means to say. Also note 白 which means white.	日字旁
@@ -11,7 +11,7 @@
 火	火	灬	fire	huo3	灯炎焦然炸		火字旁（火），四点底（灬）
 纟	糹	糸	silk	(mi4)	纪纸累细绩		绞丝旁（纟），独立绞丝（糸）
 艹	艹	艸	grass	cao3	花英苦草茶	Note that when the radical is on top, the traditional variant has four strokes.	草字头（艹）
-讠	訁	言	speech	yan2	说讲识评试		言字旁（讠）
+讠	訁	言	speech	yan2	说讲识评试		言字旁（讠）note this is skinny version of character
 辶	辶	⻍	walk	(chuo4)	迎通道这近		走之旁（⻌）
 钅	釒	金	gold, metal	jin1	银针钱铁钟		金字旁（钅）
 刂	刂	刀	knife, sword	dao1	分切初利刻	Note similarity with 力, which means force.	立刀旁（刂），刀字旁（刀）
@@ -22,7 +22,6 @@
 又	又		right hand	you4	反取受左友		又字旁
 犭	犭	犬	dog	(quan3)	犯狂狗献猪	Note similarity with 大, which means big.	反犬旁（犭），犬字旁（犬）
 禾	禾		grain	(he)	利私季和香	Note similarity with 木, which means tree.	禾木旁
-⺮	⺮	竹	bamboo	zhu2	笑第简筷算		竹子头（竹字头）
 虫	虫		insect	chong2	強独蛇蛋蚊	Even though this radical means insect, it's used for many organisms which aren't insects according to our taxonomy.	虫字旁
 阜	阝		mound, dam	(fu4)	防阻陆院陈	Note that there are two radicals which look like this. On the left, it means mound, dam, and on the right, it means city.	双耳刀（左耳刀）
 大	大		big, very	da4	天尖因奇美		大字旁（头）
