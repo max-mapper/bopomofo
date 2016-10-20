@@ -1,11 +1,12 @@
 // - / v \
 // 1 2 3 4
 var fs = require('fs')
-var hundred = fs.readFileSync('./100-most-common-radicals.txt').toString()
+var hundred = fs.readFileSync('./100-most-common-radicals.csv').toString()
 var oh = []
 hundred.split('\n').forEach(function (line) {
   oh.push(line.split('\t'))
 })
+oh.shift()
 fs.writeFileSync('./one-hundred-common.json', JSON.stringify(oh, null, '  '))
 var svgs = []
 oh.forEach(function (o) {
