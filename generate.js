@@ -1,7 +1,7 @@
 // - / v \
 // 1 2 3 4
 var fs = require('fs')
-var hundred = fs.readFileSync('./100-most-common-radicals.csv').toString()
+var hundred = fs.readFileSync('./100-most-common-radicals.tsv').toString()
 var oh = []
 hundred.split('\n').forEach(function (line) {
   oh.push(line.split('\t'))
@@ -15,7 +15,7 @@ oh.forEach(function (o) {
 })
 fs.writeFileSync('./one-hundred-svgs.json', JSON.stringify(svgs, null, '  '))
 
-var threehundred = fs.readFileSync('./hanban-300chars-list-with-definitions.csv').toString()
+var threehundred = fs.readFileSync('./hanban-300chars-list-with-definitions.tsv').toString()
 var threeh = []
 threehundred.split('\n').forEach(function (l) {
   var c = l.split('\t')
