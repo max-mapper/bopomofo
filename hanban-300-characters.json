@@ -1,0 +1,2394 @@
+[
+  {
+    "simplified": "安",
+    "traditional": "安",
+    "pinyin_fancy": "ān",
+    "pinyin": "an1",
+    "definition": "content; calm; still; quiet; safe; secure; in good health; to find a place for; to install; to fix; to fit; to bring (a charge against sb); to pacify; security; safety; peace; ampere",
+    "words": "安全"
+  },
+  {
+    "simplified": "八",
+    "traditional": "八",
+    "pinyin_fancy": "bā",
+    "pinyin": "ba1",
+    "definition": "eight; 8",
+    "words": "八"
+  },
+  {
+    "simplified": "把",
+    "traditional": "把",
+    "pinyin_fancy": "bà",
+    "pinyin": "ba4",
+    "definition": "to hold; to contain; to grasp; to take hold of; handle; particle marking the following noun as a direct object; classifier for objects with handle; classifier for small objects: handful; handle",
+    "words": "把"
+  },
+  {
+    "simplified": "爸",
+    "traditional": "爸",
+    "pinyin_fancy": "bà",
+    "pinyin": "ba4",
+    "definition": "father; dad; pa; papa",
+    "words": "爸爸|爸"
+  },
+  {
+    "simplified": "吧",
+    "traditional": "吧",
+    "pinyin_fancy": "ba",
+    "pinyin": "ba5",
+    "definition": "bar (serving drinks, or providing internet access etc); to puff (on a pipe etc); onomat. bang; (modal particle indicating suggestion or surmise); ...right?; ...OK?; ...I presume.",
+    "words": "吧"
+  },
+  {
+    "simplified": "白",
+    "traditional": "白",
+    "pinyin_fancy": "bái",
+    "pinyin": "bai2",
+    "definition": "white; snowy; pure; bright; empty; blank; plain; clear; to make clear; in vain; gratuitous; free of charge; reactionary; anti-communist; funeral; to stare coldly; to write wrong character; to state; to explain; vernacular; spoken lines in opera",
+    "words": "白、白天"
+  },
+  {
+    "simplified": "百",
+    "traditional": "百",
+    "pinyin_fancy": "bǎi",
+    "pinyin": "bai3",
+    "definition": "hundred; numerous; all kinds of",
+    "words": "百"
+  },
+  {
+    "simplified": "半",
+    "traditional": "半",
+    "pinyin_fancy": "bàn",
+    "pinyin": "ban4",
+    "definition": "half; semi-; incomplete; (after a number) and a half",
+    "words": "半、半天"
+  },
+  {
+    "simplified": "帮",
+    "traditional": "幫",
+    "pinyin_fancy": "bāng",
+    "pinyin": "bang1",
+    "definition": "to help; to assist; to support; for sb (i.e. as a help); hired (as worker); side (of pail, boat etc); outer layer; group; gang; clique; party; secret society",
+    "words": "帮、帮助、帮忙"
+  },
+  {
+    "simplified": "包",
+    "traditional": "包",
+    "pinyin_fancy": "bāo",
+    "pinyin": "bao1",
+    "definition": "to cover; to wrap; to hold; to include; to take charge of; to contract (to or for); package; wrapper; container; bag; to hold or embrace; bundle; packet; CL:個|个[gè],隻|只[zhī]",
+    "words": "包"
+  },
+  {
+    "simplified": "北",
+    "traditional": "北",
+    "pinyin_fancy": "běi",
+    "pinyin": "bei3",
+    "definition": "north; to be defeated (classical)",
+    "words": "北、北边"
+  },
+  {
+    "simplified": "本",
+    "traditional": "本",
+    "pinyin_fancy": "běn",
+    "pinyin": "ben3",
+    "definition": "roots or stems of plants; origin; source; this; the current; root; foundation; basis; classifier for books, periodicals, files etc; originally",
+    "words": "本、本子"
+  },
+  {
+    "simplified": "比",
+    "traditional": "比",
+    "pinyin_fancy": "bǐ",
+    "pinyin": "bi4",
+    "definition": "Belgium; Belgian; abbr. for 比利時|比利时[Bǐ lì shí]; (particle used for comparison and '-er than'); to compare; to contrast; to gesture (with hands); ratio; to associate with; to be near",
+    "words": "比"
+  },
+  {
+    "simplified": "边",
+    "traditional": "邊",
+    "pinyin_fancy": "bian",
+    "pinyin": "bian5",
+    "definition": "side; edge; margin; border; boundary; CL:個|个[gè]; simultaneously; suffix of a noun of locality",
+    "words": "旁边"
+  },
+  {
+    "simplified": "便",
+    "traditional": "便",
+    "pinyin_fancy": "biàn",
+    "pinyin": "bian",
+    "definition": "ordinary; plain; convenient; as convenient; when the chance arises; handy; easy; informal; simple; so; thus; to relieve oneself; to urinate; to defecate; equivalent to 就[jiù]: then; in that case; even if; soon afterwards; advantageous; cheap",
+    "words": "方便"
+  },
+  {
+    "simplified": "别",
+    "traditional": "別",
+    "pinyin_fancy": "bié",
+    "pinyin": "bie2",
+    "definition": "to leave; to depart; to separate; to distinguish; to classify; other; another; do not; must not; to pin; to make sb change their ways, opinions etc",
+    "words": "别、别的、别人"
+  },
+  {
+    "simplified": "病",
+    "traditional": "病",
+    "pinyin_fancy": "bìng",
+    "pinyin": "bing4",
+    "definition": "illness; CL:場|场[cháng]; disease; to fall ill; defect",
+    "words": "病、病人"
+  },
+  {
+    "simplified": "不",
+    "traditional": "不",
+    "pinyin_fancy": "bù",
+    "pinyin": "bu4",
+    "definition": "(negative prefix); not; no",
+    "words": "不"
+  },
+  {
+    "simplified": "才",
+    "traditional": "才",
+    "pinyin_fancy": "cái",
+    "pinyin": "cai2",
+    "definition": "ability; talent; sb of a certain type; a capable individual; only; only then; just now; a moment ago; just now; (preceded by a clause of condition or reason) not until; (followed by a numerical clause) only",
+    "words": "才"
+  },
+  {
+    "simplified": "菜",
+    "traditional": "菜",
+    "pinyin_fancy": "cài",
+    "pinyin": "cai4",
+    "definition": "dish (type of food); vegetables; vegetable; cuisine; CL:盤|盘[pán],道[dào]",
+    "words": "菜"
+  },
+  {
+    "simplified": "茶",
+    "traditional": "茶",
+    "pinyin_fancy": "chá",
+    "pinyin": "cha2",
+    "definition": "tea; tea plant; CL:杯[bēi],壺|壶[hú]",
+    "words": "茶"
+  },
+  {
+    "simplified": "差",
+    "traditional": "差",
+    "pinyin_fancy": "chà",
+    "pinyin": "chai",
+    "definition": "difference; discrepancy; to differ; error; to err; to make a mistake; to differ from; to fall short of; lacking; wrong; inferior; to send; to commission; messenger; mission; uneven",
+    "words": "差、差不多"
+  },
+  {
+    "simplified": "长",
+    "traditional": "長",
+    "pinyin_fancy": "chǎng",
+    "pinyin": "chang3",
+    "definition": "length; long; forever; always; constantly; chief; head; elder; to grow; to develop; to increase; to enhance",
+    "words": "长"
+  },
+  {
+    "simplified": "常",
+    "traditional": "常",
+    "pinyin_fancy": "cháng",
+    "pinyin": "chang2",
+    "definition": "always; ever; often; frequently; common; general; constant",
+    "words": "常、常常"
+  },
+  {
+    "simplified": "场",
+    "traditional": "場",
+    "pinyin_fancy": "chǎng",
+    "pinyin": "chang3",
+    "definition": "threshing floor; classifier for events and happenings: spell, episode, bout; large place used for a specific purpose; stage; scene (of a play); classifier for sporting or recreational activities; classifier for number of exams",
+    "words": "场"
+  },
+  {
+    "simplified": "唱",
+    "traditional": "唱",
+    "pinyin_fancy": " chàng",
+    "pinyin": "chang4",
+    "definition": "to sing; to call loudly; to chant",
+    "words": "唱、唱歌"
+  },
+  {
+    "simplified": "车",
+    "traditional": "車",
+    "pinyin_fancy": "chē",
+    "pinyin": "che1",
+    "definition": "car; vehicle; CL:輛|辆[liàng]; machine; to shape with a lathe; war chariot (archaic); rook (in Chinese chess); rook (in chess)",
+    "words": "车、车票、车站"
+  },
+  {
+    "simplified": "吃",
+    "traditional": "吃",
+    "pinyin_fancy": "jí",
+    "pinyin": "chi1",
+    "definition": "to eat; to consume; to eat at (a cafeteria etc); to eradicate; to destroy; to absorb; to suffer; stammer",
+    "words": "吃、吃饭"
+  },
+  {
+    "simplified": "出",
+    "traditional": "出",
+    "pinyin_fancy": "chū",
+    "pinyin": "chu1",
+    "definition": "to go out; to come out; to occur; to produce; to go beyond; to rise; to put forth; to happen; classifier for dramas, plays, operas etc",
+    "words": "出、出来、出去"
+  },
+  {
+    "simplified": "穿",
+    "traditional": "穿",
+    "pinyin_fancy": "chuān",
+    "pinyin": "chuan1",
+    "definition": "to bore through; to pierce; to perforate; to penetrate; to pass through; to dress; to wear; to put on; to thread",
+    "words": "穿"
+  },
+  {
+    "simplified": "次",
+    "traditional": "次",
+    "pinyin_fancy": "cì",
+    "pinyin": "ci4",
+    "definition": "next in sequence; second; the second (day, time etc); secondary; vice-; sub-; infra-; inferior quality; substandard; order; sequence; hypo- (chemistry); classifier for enumerated events: time",
+    "words": "次"
+  },
+  {
+    "simplified": "从",
+    "traditional": "從",
+    "pinyin_fancy": "cōng",
+    "pinyin": "cong",
+    "definition": "lax; yielding; unhurried; from; via; passing through; through (a gap); past; ever (followed by negative, meaning never); (formerly pr. [zòng] and related to 縱|纵) to follow; to comply with; to obey; to join; to engage in; adopting some mode of action or attitude; follower; retainer; accessory; accomplice; related by common paternal grandfather or earlier ancestor; second cousin",
+    "words": "从、从来"
+  },
+  {
+    "simplified": "错",
+    "traditional": "錯",
+    "pinyin_fancy": "cuò",
+    "pinyin": "cuo4",
+    "definition": "mistake; wrong; bad; interlocking; complex; to grind; to polish; to alternate; to stagger; to miss; to let slip; to evade; to inlay with gold or silver",
+    "words": "错"
+  },
+  {
+    "simplified": "答",
+    "traditional": "答",
+    "pinyin_fancy": "dá",
+    "pinyin": "da2",
+    "definition": "to answer; to agree; reply; answer; return; respond; echo",
+    "words": "答案、回答"
+  },
+  {
+    "simplified": "打",
+    "traditional": "打",
+    "pinyin_fancy": "dǎ",
+    "pinyin": "da3",
+    "definition": "dozen; to beat; to strike; to hit; to break; to type; to mix up; to build; to fight; to fetch; to make; to tie up; to issue; to shoot; to calculate; to play (a game); since; from",
+    "words": "打、打车、打电话、打开、打球"
+  },
+  {
+    "simplified": "大",
+    "traditional": "大",
+    "pinyin_fancy": "dài",
+    "pinyin": "da",
+    "definition": "big; huge; large; major; great; wide; deep; oldest; eldest; see 大夫[dài fu]",
+    "words": "大、大家、大学、大学生"
+  },
+  {
+    "simplified": "但",
+    "traditional": "但",
+    "pinyin_fancy": "dàn",
+    "pinyin": "dan4",
+    "definition": "but; yet; however; only; merely; still",
+    "words": "但是"
+  },
+  {
+    "simplified": "蛋",
+    "traditional": "蛋",
+    "pinyin_fancy": "dàn",
+    "pinyin": "dan4",
+    "definition": "egg; oval shaped; CL:個|个[gè],打[dá]",
+    "words": "鸡蛋"
+  },
+  {
+    "simplified": "当",
+    "traditional": "當",
+    "pinyin_fancy": "dàng",
+    "pinyin": "dang4",
+    "definition": "to be; to act as; manage; withstand; when; during; ought; should; match equally; equal; same; obstruct; just at (a time or place); on the spot; right; just at; at or in the very same...; suitable; adequate; fitting; proper; to replace; to regard as; to think; to pawn; (coll.) to fail (a student)",
+    "words": "当、当然"
+  },
+  {
+    "simplified": "到",
+    "traditional": "到",
+    "pinyin_fancy": "dào",
+    "pinyin": "dao4",
+    "definition": "to (a place); until (a time); up to; to go; to arrive",
+    "words": "到"
+  },
+  {
+    "simplified": "道",
+    "traditional": "道",
+    "pinyin_fancy": "dào",
+    "pinyin": "dao4",
+    "definition": "direction; way; road; path; principle; truth; morality; reason; skill; method; Dao (of Daoism); to say; to speak; to talk; classifier for long thin stretches, rivers, roads etc; province (of Korea do 도, and formerly Japan dō); CL:條|条[tiáo],股[gǔ]",
+    "words": "道"
+  },
+  {
+    "simplified": "得",
+    "traditional": "得",
+    "pinyin_fancy": "de",
+    "pinyin": "de",
+    "definition": "to obtain; to get; to gain; to catch (a disease); proper; suitable; proud; contented; to allow; to permit; ready; finished; structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc; to have to; must; ought to; to need to",
+    "words": "得到"
+  },
+  {
+    "simplified": "地",
+    "traditional": "地",
+    "pinyin_fancy": "dì",
+    "pinyin": "de",
+    "definition": "-ly; structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct; earth; ground; field; place; land; CL:片[piàn]",
+    "words": "地、地点、地方、地上"
+  },
+  {
+    "simplified": "的",
+    "traditional": "的",
+    "pinyin_fancy": "dí",
+    "pinyin": "de",
+    "definition": "of; ~'s (possessive particle); (used after an attribute); (used to form a nominal expression); (used at the end of a declarative sentence for emphasis); really and truly; aim; clear",
+    "words": "的"
+  },
+  {
+    "simplified": "等",
+    "traditional": "等",
+    "pinyin_fancy": "děng",
+    "pinyin": "deng3",
+    "definition": "class; rank; grade; equal to; same as; to wait for; to await; et cetera; and so on; et al. (and other authors); after; as soon as; once",
+    "words": "等"
+  },
+  {
+    "simplified": "第",
+    "traditional": "第",
+    "pinyin_fancy": "dì",
+    "pinyin": "di4",
+    "definition": "(prefix indicating ordinal number, e.g. first, number two etc)",
+    "words": "第（第二）"
+  },
+  {
+    "simplified": "点",
+    "traditional": "點",
+    "pinyin_fancy": " diǎn",
+    "pinyin": "dian3",
+    "definition": "point; dot; drop; speck; o'clock; point (in space or time); to draw a dot; to check on a list; to choose; to order (food in a restaurant); to touch briefly; to hint; to light; to ignite; to pour a liquid drop by drop; (old) one fifth of a two-hour watch 更[gēng]; dot stroke in Chinese characters; classifier for items",
+    "words": "点"
+  },
+  {
+    "simplified": "电",
+    "traditional": "電",
+    "pinyin_fancy": "diàn",
+    "pinyin": "dian4",
+    "definition": "electric; electricity; electrical",
+    "words": "电、电话、电脑、电视、电视机"
+  },
+  {
+    "simplified": "店",
+    "traditional": "店",
+    "pinyin_fancy": "diàn",
+    "pinyin": "dian4",
+    "definition": "inn; shop; store; CL:家[jiā]",
+    "words": "商店"
+  },
+  {
+    "simplified": "东",
+    "traditional": "東",
+    "pinyin_fancy": "dōng",
+    "pinyin": "dong1",
+    "definition": "east; host (i.e. sitting on east side of guest); landlord",
+    "words": "东、东边、东西"
+  },
+  {
+    "simplified": "动",
+    "traditional": "動",
+    "pinyin_fancy": " dòng",
+    "pinyin": "dong4",
+    "definition": "to use; to act; to move; to change; abbr. for 動詞|动词[dòng cí], verb",
+    "words": "动"
+  },
+  {
+    "simplified": "都",
+    "traditional": "都",
+    "pinyin_fancy": "dōu",
+    "pinyin": "du",
+    "definition": "all; both; entirely; (used for emphasis) even; already; (not) at all; capital city; metropolis",
+    "words": "都"
+  },
+  {
+    "simplified": "对",
+    "traditional": "對",
+    "pinyin_fancy": "duì",
+    "pinyin": "dui4",
+    "definition": "couple; pair; to be opposite; to oppose; to face; versus; for; to; correct (answer); to answer; to reply; to direct (towards sth); right",
+    "words": "对（形）、对（介、动）、对不起"
+  },
+  {
+    "simplified": "多",
+    "traditional": "多",
+    "pinyin_fancy": "duō",
+    "pinyin": "duo1",
+    "definition": "many; much; a lot of; numerous; more; in excess; how (to what extent); multi-; Taiwan pr. [duó] when it means 'how'",
+    "words": "多、多少"
+  },
+  {
+    "simplified": "饿",
+    "traditional": "餓",
+    "pinyin_fancy": "è",
+    "pinyin": "e4",
+    "definition": "to be hungry; hungry",
+    "words": "饿"
+  },
+  {
+    "simplified": "儿",
+    "traditional": "兒",
+    "pinyin_fancy": "r5",
+    "pinyin": "er",
+    "definition": "son; non-syllabic diminutive suffix; retroflex final",
+    "words": "儿子"
+  },
+  {
+    "simplified": "二",
+    "traditional": "二",
+    "pinyin_fancy": "èr",
+    "pinyin": "er4",
+    "definition": "two; 2; stupid (Beijing dialect)",
+    "words": "二"
+  },
+  {
+    "simplified": "饭",
+    "traditional": "飯",
+    "pinyin_fancy": "fàn",
+    "pinyin": "fan4",
+    "definition": "food; cuisine; cooked rice; meal; CL:碗[wǎn],頓|顿[dùn]",
+    "words": "饭、饭店"
+  },
+  {
+    "simplified": "方",
+    "traditional": "方",
+    "pinyin_fancy": "fāng",
+    "pinyin": "fang1",
+    "definition": "square; power or involution (mathematics); upright; honest; fair and square; direction; side; party (to a contract, dispute etc); place; method; prescription (medicine); just when; only or just; classifier for square things; abbr. for square or cubic meter",
+    "words": "方便、方便面、方向"
+  },
+  {
+    "simplified": "房",
+    "traditional": "房",
+    "pinyin_fancy": "fáng",
+    "pinyin": "fang2",
+    "definition": "house; room; CL:間|间[jiān]",
+    "words": "房间、房子"
+  },
+  {
+    "simplified": "放",
+    "traditional": "放",
+    "pinyin_fancy": "fàng",
+    "pinyin": "fang4",
+    "definition": "to release; to free; to let go; to put; to place; to let out; to set off (fireworks)",
+    "words": "放、放假"
+  },
+  {
+    "simplified": "飞",
+    "traditional": "飛",
+    "pinyin_fancy": "fēi",
+    "pinyin": "fei1",
+    "definition": "to fly",
+    "words": "飞、飞机"
+  },
+  {
+    "simplified": "非",
+    "traditional": "非",
+    "pinyin_fancy": "fēi",
+    "pinyin": "fei1",
+    "definition": "abbr. for 非洲[Fēi zhōu], Africa; to not be; not; wrong; incorrect; non-; un-; in-; to reproach or blame; (colloquial) to insist on; simply must",
+    "words": "非常"
+  },
+  {
+    "simplified": "分",
+    "traditional": "分",
+    "pinyin_fancy": "fèn",
+    "pinyin": "fen4",
+    "definition": "to divide; to separate; to distribute; to allocate; to distinguish (good and bad); part or subdivision; fraction; one tenth (of certain units); unit of length equivalent to 0.33 cm; minute; a point (in sports or games); 0.01 yuan (unit of money); part; share; ingredient; component",
+    "words": "分"
+  },
+  {
+    "simplified": "服",
+    "traditional": "服",
+    "pinyin_fancy": "fù",
+    "pinyin": "fu4",
+    "definition": "clothes; dress; garment; to serve; to obey; to convince; to acclimatize; to take (medicine); mourning clothes; to wear mourning clothes; dose (measure word for medicine)",
+    "words": "衣服"
+  },
+  {
+    "simplified": "该",
+    "traditional": "該",
+    "pinyin_fancy": "gāi",
+    "pinyin": "gai1",
+    "definition": "should; ought to; probably; must be; to deserve; to owe; to be sb's turn to do sth; that; the above-mentioned",
+    "words": "该"
+  },
+  {
+    "simplified": "干",
+    "traditional": "幹",
+    "pinyin_fancy": "gān",
+    "pinyin": "gan4",
+    "definition": "dry; clean; in vain; dried food; foster; adoptive; to ignore; to concern; to interfere; shield; stem; tree trunk; main part of sth; to manage; to work; to do; capable; cadre; to kill (slang); to fuck (vulgar)",
+    "words": "干、干净、干什么"
+  },
+  {
+    "simplified": "刚",
+    "traditional": "剛",
+    "pinyin_fancy": "gāng",
+    "pinyin": "gang1",
+    "definition": "hard; firm; strong; just; barely; exactly",
+    "words": "刚、刚才、刚刚"
+  },
+  {
+    "simplified": "高",
+    "traditional": "高",
+    "pinyin_fancy": "gāo",
+    "pinyin": "gao1",
+    "definition": "high; tall; above average; loud; your (honorific)",
+    "words": "高、高兴"
+  },
+  {
+    "simplified": "哥",
+    "traditional": "哥",
+    "pinyin_fancy": "gē",
+    "pinyin": "ge1",
+    "definition": "elder brother",
+    "words": "哥哥|哥"
+  },
+  {
+    "simplified": "歌",
+    "traditional": "歌",
+    "pinyin_fancy": "gē",
+    "pinyin": "ge1",
+    "definition": "song; CL:支[zhī],首[shǒu]; to sing",
+    "words": "歌"
+  },
+  {
+    "simplified": "个",
+    "traditional": "個",
+    "pinyin_fancy": "gè",
+    "pinyin": "ge4",
+    "definition": "individual; this; that; size; classifier for people or objects in general; variant of 個|个[gè]",
+    "words": "个"
+  },
+  {
+    "simplified": "给",
+    "traditional": "給",
+    "pinyin_fancy": "jǐ",
+    "pinyin": "gei",
+    "definition": "to; for; for the benefit of; to give; to allow; to do sth (for sb); (passive particle); to supply; to provide",
+    "words": "给"
+  },
+  {
+    "simplified": "跟",
+    "traditional": "跟",
+    "pinyin_fancy": "gēn",
+    "pinyin": "gen1",
+    "definition": "heel; to follow closely; to go with; to marry sb (of woman); with; towards; as (compared to); from (different from); and (in addition to)",
+    "words": "跟"
+  },
+  {
+    "simplified": "更",
+    "traditional": "更",
+    "pinyin_fancy": "gèng",
+    "pinyin": "geng4",
+    "definition": "to change or replace; to experience; one of the five two hour periods into which the night was formerly divided; watch (e.g. of a sentry or guard); more; even more; further; still; still more",
+    "words": "更"
+  },
+  {
+    "simplified": "工",
+    "traditional": "工",
+    "pinyin_fancy": "gōng",
+    "pinyin": "gong1",
+    "definition": "work; worker; skill; profession; trade; craft; labor",
+    "words": "工人、工作"
+  },
+  {
+    "simplified": "关",
+    "traditional": "關",
+    "pinyin_fancy": "guān",
+    "pinyin": "guan1",
+    "definition": "mountain pass; to close; to shut; to turn off; to concern; to involve",
+    "words": "关"
+  },
+  {
+    "simplified": "贵",
+    "traditional": "貴",
+    "pinyin_fancy": "guì",
+    "pinyin": "gui4",
+    "definition": "expensive; noble; your (name); precious",
+    "words": "贵"
+  },
+  {
+    "simplified": "国",
+    "traditional": "國",
+    "pinyin_fancy": "guó",
+    "pinyin": "guo2",
+    "definition": "country; nation; state; national; CL:個|个[gè]",
+    "words": "国、国家"
+  },
+  {
+    "simplified": "果",
+    "traditional": "果",
+    "pinyin_fancy": "guǒ",
+    "pinyin": "guo3",
+    "definition": "fruit; result; resolute; indeed; if really",
+    "words": "苹果、水果"
+  },
+  {
+    "simplified": "过",
+    "traditional": "過",
+    "pinyin_fancy": "guò",
+    "pinyin": "guo4",
+    "definition": "(experienced action marker); to cross; to go over; to pass (time); to celebrate (a holiday); to live; to get along; excessively; too-",
+    "words": "过、过来"
+  },
+  {
+    "simplified": "还",
+    "traditional": "還",
+    "pinyin_fancy": "hái",
+    "pinyin": "huan",
+    "definition": "still; still in progress; still more; yet; even more; in addition; fairly; passably (good); as early as; even; also; else; to pay back; to return",
+    "words": "还、还是、还有"
+  },
+  {
+    "simplified": "孩",
+    "traditional": "孩",
+    "pinyin_fancy": "hái",
+    "pinyin": "hai2",
+    "definition": "child",
+    "words": "孩子"
+  },
+  {
+    "simplified": "汉",
+    "traditional": "漢",
+    "pinyin_fancy": "hàn",
+    "pinyin": "han4",
+    "definition": "Han ethnic group; Chinese (language); the Han dynasty (206 BC-220 AD); man",
+    "words": "汉语、汉字"
+  },
+  {
+    "simplified": "好",
+    "traditional": "好",
+    "pinyin_fancy": "hào",
+    "pinyin": "hao4",
+    "definition": "good; well; proper; good to; easy to; very; so; (suffix indicating completion or readiness); (of an unmarried couple) to be close; to be keen on each other; to be fond of; to have a tendency to; to be prone to",
+    "words": "好、好吃、好看、好听、好玩儿"
+  },
+  {
+    "simplified": "号",
+    "traditional": "號",
+    "pinyin_fancy": "hào",
+    "pinyin": "hao4",
+    "definition": "roar; cry; CL:個|个[gè]; ordinal number; day of a month; mark; sign; business establishment; size; ship suffix; horn (wind instrument); bugle call; assumed name; to take a pulse; classifier used to indicate number of people",
+    "words": "号、号码"
+  },
+  {
+    "simplified": "喝",
+    "traditional": "喝",
+    "pinyin_fancy": "hè",
+    "pinyin": "he4",
+    "definition": "to drink; My goodness!; to shout loudly",
+    "words": "喝"
+  },
+  {
+    "simplified": "和",
+    "traditional": "和",
+    "pinyin_fancy": "hé",
+    "pinyin": "hu",
+    "definition": "Japanese (food, clothes etc); and; together with; with; sum; union; peace; harmony; Taiwan pr. [hàn] when it means 'and'; cap (a poem); to respond in singing; to complete a set in mahjong or playing cards; soft; warm; to mix together; to blend",
+    "words": "和"
+  },
+  {
+    "simplified": "黑",
+    "traditional": "黑",
+    "pinyin_fancy": "hēi",
+    "pinyin": "hei1",
+    "definition": "abbr. for Heilongjiang province 黑龍江|黑龙江[Hēi lóng jiāng]; black; dark; (loanword) to hack",
+    "words": "黑"
+  },
+  {
+    "simplified": "很",
+    "traditional": "很",
+    "pinyin_fancy": "hěn",
+    "pinyin": "hen3",
+    "definition": "(adverb of degree); quite; very; awfully",
+    "words": "很"
+  },
+  {
+    "simplified": "后",
+    "traditional": "後",
+    "pinyin_fancy": "hòu",
+    "pinyin": "hou4",
+    "definition": "empress; queen; back; behind; rear; afterwards; after; later",
+    "words": "后、后边、后面"
+  },
+  {
+    "simplified": "候",
+    "traditional": "候",
+    "pinyin_fancy": "hòu",
+    "pinyin": "hou4",
+    "definition": "to wait; to inquire after; to watch; season; climate; (old) period of five days",
+    "words": "时候"
+  },
+  {
+    "simplified": "花",
+    "traditional": "花",
+    "pinyin_fancy": "huā",
+    "pinyin": "hua1",
+    "definition": "flower; blossom; CL:朵[duǒ],支[zhī],束[shù],把[bǎ],盆[pén],簇[cù]; fancy pattern; florid; to spend (money, time)",
+    "words": "花"
+  },
+  {
+    "simplified": "话",
+    "traditional": "話",
+    "pinyin_fancy": "huà",
+    "pinyin": "hua4",
+    "definition": "dialect; language; spoken words; speech; talk; words; conversation; what sb said; CL:種|种[zhǒng],席[xí],句[jù],口[kǒu],番[fān]",
+    "words": "电话"
+  },
+  {
+    "simplified": "坏",
+    "traditional": "壞",
+    "pinyin_fancy": "huài",
+    "pinyin": "huai4",
+    "definition": "bad; spoiled; broken; to break down",
+    "words": "坏"
+  },
+  {
+    "simplified": "欢",
+    "traditional": "歡",
+    "pinyin_fancy": "huān",
+    "pinyin": "huan1",
+    "definition": "joyous; happy; pleased",
+    "words": "喜欢、欢迎"
+  },
+  {
+    "simplified": "回",
+    "traditional": "回",
+    "pinyin_fancy": "huí",
+    "pinyin": "hui2",
+    "definition": "to circle; to go back; to turn around; to answer; to return; to revolve; Hui ethnic group (Chinese Muslims); time; classifier for acts of a play; section or chapter (of a classic book); to curve; to return; to revolve",
+    "words": "回、回答、回到、回家、回来、回去"
+  },
+  {
+    "simplified": "会",
+    "traditional": "會",
+    "pinyin_fancy": "kuài",
+    "pinyin": "hui",
+    "definition": "can; be possible; be able to; will; be likely to; be sure to; to assemble; to meet; to gather; to see; union; group; association; CL:個|个[gè]; a moment (Taiwan pr. for this sense is [huǐ]); to balance an account; accountancy; accounting",
+    "words": "会"
+  },
+  {
+    "simplified": "活",
+    "traditional": "活",
+    "pinyin_fancy": "huó",
+    "pinyin": "huo2",
+    "definition": "to live; alive; living; work; workmanship",
+    "words": "活、活动"
+  },
+  {
+    "simplified": "火",
+    "traditional": "火",
+    "pinyin_fancy": "huǒ",
+    "pinyin": "huo3",
+    "definition": "fire; urgent; ammunition; fiery or flaming; internal heat (Chinese medicine); hot (popular); classifier for military units (old)",
+    "words": "火、火车"
+  },
+  {
+    "simplified": "机",
+    "traditional": "機",
+    "pinyin_fancy": "jī",
+    "pinyin": "ji1",
+    "definition": "machine; engine; opportunity; intention; aircraft; pivot; crucial point; flexible (quick-witted); organic; CL:臺|台[tái]",
+    "words": "机场、机票"
+  },
+  {
+    "simplified": "鸡",
+    "traditional": "雞",
+    "pinyin_fancy": "jī",
+    "pinyin": "ji1",
+    "definition": "fowl; chicken; CL:隻|只[zhī]",
+    "words": "鸡、鸡蛋"
+  },
+  {
+    "simplified": "几",
+    "traditional": "幾",
+    "pinyin_fancy": "jī",
+    "pinyin": "ji3",
+    "definition": "small table; almost; how much; how many; several; a few",
+    "words": "几"
+  },
+  {
+    "simplified": "记",
+    "traditional": "記",
+    "pinyin_fancy": " jì",
+    "pinyin": "ji4",
+    "definition": "to record; to note; to remember; mark; sign; classifier for blows, kicks, shots",
+    "words": "记、记得、记住"
+  },
+  {
+    "simplified": "家",
+    "traditional": "家",
+    "pinyin_fancy": "jiā",
+    "pinyin": "jia1",
+    "definition": "home; family; (polite) my (sister, uncle etc); classifier for families or businesses; refers to the philosophical schools of pre-Han China; noun suffix for a specialist in some activity, such as a musician or revolutionary, corresponding to English -ist, -er, -ary or -ian; CL:個|个[gè]",
+    "words": "家、家里"
+  },
+  {
+    "simplified": "假",
+    "traditional": "假",
+    "pinyin_fancy": "jià",
+    "pinyin": "jia4",
+    "definition": "fake; false; artificial; to borrow; if; suppose; vacation",
+    "words": "假"
+  },
+  {
+    "simplified": "间",
+    "traditional": "間",
+    "pinyin_fancy": "jiàn",
+    "pinyin": "jian4",
+    "definition": "between; among; within a definite time or space; room; section of a room or lateral space between two pairs of pillars; classifier for rooms; gap; to separate; to thin out (seedlings); to sow discontent",
+    "words": "间"
+  },
+  {
+    "simplified": "见",
+    "traditional": "見",
+    "pinyin_fancy": "xiàn",
+    "pinyin": "jian",
+    "definition": "to see; to meet; to appear (to be sth); to interview; to appear",
+    "words": "见、见面"
+  },
+  {
+    "simplified": "教",
+    "traditional": "教",
+    "pinyin_fancy": "jiāo",
+    "pinyin": "jiao4",
+    "definition": "to teach; religion; teaching; to make; to cause; to tell",
+    "words": "教"
+  },
+  {
+    "simplified": "叫",
+    "traditional": "叫",
+    "pinyin_fancy": "jiào",
+    "pinyin": "jiao4",
+    "definition": "to shout; to call; to order; to ask; to be called; by (indicates agent in the passive mood)",
+    "words": "叫"
+  },
+  {
+    "simplified": "觉",
+    "traditional": "覺",
+    "pinyin_fancy": "jué",
+    "pinyin": "jiao",
+    "definition": "a nap; a sleep; CL:場|场[cháng]; to feel; to find that; thinking; awake; aware",
+    "words": "觉得"
+  },
+  {
+    "simplified": "姐",
+    "traditional": "姐",
+    "pinyin_fancy": "jiě",
+    "pinyin": "jie3",
+    "definition": "older sister",
+    "words": "姐姐|姐"
+  },
+  {
+    "simplified": "借",
+    "traditional": "借",
+    "pinyin_fancy": "jiè",
+    "pinyin": "jie4",
+    "definition": "to lend; to borrow; by means of; to take (an opportunity); variant of 借[jiè]",
+    "words": "借"
+  },
+  {
+    "simplified": "今",
+    "traditional": "今",
+    "pinyin_fancy": "jīn",
+    "pinyin": "jin1",
+    "definition": "today; modern; present; current; this; now",
+    "words": "今年、今天"
+  },
+  {
+    "simplified": "进",
+    "traditional": "進",
+    "pinyin_fancy": "jìn",
+    "pinyin": "jin4",
+    "definition": "to advance; to enter; to come (or go) into; to receive or admit; to eat or drink; to submit or present; (used after a verb) into, in; to score a goal",
+    "words": "进、进来、进去"
+  },
+  {
+    "simplified": "净",
+    "traditional": "凈",
+    "pinyin_fancy": "jìng",
+    "pinyin": "jing4",
+    "definition": "clean; completely; only",
+    "words": "干净"
+  },
+  {
+    "simplified": "九",
+    "traditional": "九",
+    "pinyin_fancy": "jiǔ",
+    "pinyin": "jiu3",
+    "definition": "nine; 9",
+    "words": "九"
+  },
+  {
+    "simplified": "酒",
+    "traditional": "酒",
+    "pinyin_fancy": "jiǔ",
+    "pinyin": "jiu3",
+    "definition": "wine (esp. rice wine); liquor; spirits; alcoholic beverage; CL:杯[bēi],瓶[píng],罐[guàn],桶[tǒng],缸[gāng]",
+    "words": "酒、酒店"
+  },
+  {
+    "simplified": "就",
+    "traditional": "就",
+    "pinyin_fancy": "jiù",
+    "pinyin": "jiu4",
+    "definition": "at once; right away; only; just (emphasis); as early as; already; as soon as; then; in that case; as many as; even if; to approach; to move towards; to undertake; to engage in; to suffer; subjected to; to accomplish; to take advantage of; to go with (of foods); with regard to; concerning",
+    "words": "就"
+  },
+  {
+    "simplified": "开",
+    "traditional": "開",
+    "pinyin_fancy": " kāi",
+    "pinyin": "kai1",
+    "definition": "to open; to start; to turn on; to boil; to write out (a prescription, check, invoice etc); to operate (vehicle); abbr. for 開爾文|开尔文 degrees Kelvin",
+    "words": "开、开车、开会、开玩笑"
+  },
+  {
+    "simplified": "看",
+    "traditional": "看",
+    "pinyin_fancy": "kàn",
+    "pinyin": "kan4",
+    "definition": "to look after; to take care of; to watch; to guard; to see; to look at; to read; to watch; to consider; to regard as; to view as; to treat as; to judge; (after repeated verb) to give it a try; depending on (how you're judging); to visit; to call on; to treat (an illness); to look after; Watch out! (for a danger)",
+    "words": "看、看病、看到、看见"
+  },
+  {
+    "simplified": "可",
+    "traditional": "可",
+    "pinyin_fancy": "kè",
+    "pinyin": "ke4",
+    "definition": "can; may; able to; to approve; to permit; to suit; (particle used for emphasis) certainly; very; see 可汗[kè hán]",
+    "words": "可能、可是、可以"
+  },
+  {
+    "simplified": "渴",
+    "traditional": "渴",
+    "pinyin_fancy": "kě",
+    "pinyin": "ke3",
+    "definition": "thirsty",
+    "words": "渴"
+  },
+  {
+    "simplified": "课",
+    "traditional": "課",
+    "pinyin_fancy": " kè",
+    "pinyin": "ke4",
+    "definition": "subject; course; CL: 門|门[mén]; class; lesson; CL:堂[táng],節|节[jié]; to levy; tax; form of divination",
+    "words": "课、课本"
+  },
+  {
+    "simplified": "口",
+    "traditional": "口",
+    "pinyin_fancy": "kǒu",
+    "pinyin": "kou3",
+    "definition": "mouth; classifier for things with mouths (people, domestic animals, cannons, wells etc); classifier for bites or mouthfuls",
+    "words": "口"
+  },
+  {
+    "simplified": "块",
+    "traditional": "塊",
+    "pinyin_fancy": "kuài",
+    "pinyin": "kuai4",
+    "definition": "lump (of earth); chunk; piece; classifier for pieces of cloth, cake, soap etc; colloquial word for yuan (or other unit of currency such as Hong Kong or US dollar etc), usually as 塊錢|块钱",
+    "words": "块"
+  },
+  {
+    "simplified": "快",
+    "traditional": "快",
+    "pinyin_fancy": "kuài",
+    "pinyin": "kuai4",
+    "definition": "rapid; quick; speed; rate; soon; almost; to make haste; clever; sharp (of knives or wits); forthright; plain-spoken; gratified; pleased; pleasant",
+    "words": "快"
+  },
+  {
+    "simplified": "来",
+    "traditional": "來",
+    "pinyin_fancy": "lái",
+    "pinyin": "lai2",
+    "definition": "to come; to arrive; to come round; ever since; next",
+    "words": "来"
+  },
+  {
+    "simplified": "老",
+    "traditional": "老",
+    "pinyin_fancy": "lǎo",
+    "pinyin": "lao3",
+    "definition": "prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity; old (of people); venerable (person); experienced; of long standing; always; all the time; of the past; very; outdated; (of meat etc) tough",
+    "words": "老、老人、老师"
+  },
+  {
+    "simplified": "了",
+    "traditional": "了",
+    "pinyin_fancy": " liào",
+    "pinyin": "liao",
+    "definition": "to watch from a height or distance; to survey",
+    "words": "了"
+  },
+  {
+    "simplified": "累",
+    "traditional": "累",
+    "pinyin_fancy": "lèi",
+    "pinyin": "lei4",
+    "definition": "to accumulate; to involve or implicate; continuous; repeated; tired; weary; to strain; to wear out; to work hard; rope; to bind together; to twist around",
+    "words": "累"
+  },
+  {
+    "simplified": "冷",
+    "traditional": "冷",
+    "pinyin_fancy": "lěng",
+    "pinyin": "leng3",
+    "definition": "cold",
+    "words": "冷"
+  },
+  {
+    "simplified": "里",
+    "traditional": "裏",
+    "pinyin_fancy": "lǐ",
+    "pinyin": "li3",
+    "definition": "lining; interior; inside; internal; also written 裡|里[lǐ]; lining; interior; inside; internal; also written 裏|里[lǐ]; Li (surname); li (Chinese mile); 500 meters (modern); home; hometown; village; neighborhood; administrative unit",
+    "words": "里、里边、里面"
+  },
+  {
+    "simplified": "力",
+    "traditional": "力",
+    "pinyin_fancy": "lì",
+    "pinyin": "li4",
+    "definition": "power; force; strength; ability; strenuously",
+    "words": "努力"
+  },
+  {
+    "simplified": "两",
+    "traditional": "兩",
+    "pinyin_fancy": " liǎng",
+    "pinyin": "liang3",
+    "definition": "two; both; some; a few; tael, unit of weight equal to 50 grams (modern) or 1⁄16 of a catty 斤[jīn] (old)",
+    "words": "两"
+  },
+  {
+    "simplified": "零",
+    "traditional": "零",
+    "pinyin_fancy": "líng",
+    "pinyin": "ling2",
+    "definition": "zero; nought; zero sign; fractional; fragmentary; odd (of numbers); (placed between two numbers to indicate a smaller quantity followed by a larger one); fraction; (in mathematics) remainder (after division); extra; to wither and fall; to wither",
+    "words": "零|0"
+  },
+  {
+    "simplified": "六",
+    "traditional": "六",
+    "pinyin_fancy": "liù",
+    "pinyin": "liu4",
+    "definition": "six; 6",
+    "words": "六"
+  },
+  {
+    "simplified": "楼",
+    "traditional": "樓",
+    "pinyin_fancy": "lóu",
+    "pinyin": "lou2",
+    "definition": "house with more than 1 story; storied building; floor; CL:層|层[céng],座[zuò],棟|栋[dòng]",
+    "words": "楼"
+  },
+  {
+    "simplified": "路",
+    "traditional": "路",
+    "pinyin_fancy": "lù",
+    "pinyin": "lu4",
+    "definition": "road; CL:條|条[tiáo]; journey; route; line (bus etc); sort; kind",
+    "words": "路、路口、路上"
+  },
+  {
+    "simplified": "妈",
+    "traditional": "媽",
+    "pinyin_fancy": "mā",
+    "pinyin": "ma1",
+    "definition": "ma; mom; mother",
+    "words": "妈妈|妈"
+  },
+  {
+    "simplified": "马",
+    "traditional": "馬",
+    "pinyin_fancy": "mǎ",
+    "pinyin": "ma3",
+    "definition": "abbr. for Malaysia 馬來西亞|马来西亚[Mǎ lái xī yà]; horse; CL:匹[pi]; horse or cavalry piece in Chinese chess; knight in Western chess",
+    "words": "马、马路、马上"
+  },
+  {
+    "simplified": "吗",
+    "traditional": "嗎",
+    "pinyin_fancy": "ma",
+    "pinyin": "ma5",
+    "definition": "see 嗎啡|吗啡, morphine; (question tag)",
+    "words": "吗"
+  },
+  {
+    "simplified": "买",
+    "traditional": "買",
+    "pinyin_fancy": "mǎi",
+    "pinyin": "mai3",
+    "definition": "to buy; to purchase",
+    "words": "买"
+  },
+  {
+    "simplified": "慢",
+    "traditional": "慢",
+    "pinyin_fancy": "màn",
+    "pinyin": "man4",
+    "definition": "slow",
+    "words": "慢"
+  },
+  {
+    "simplified": "忙",
+    "traditional": "忙",
+    "pinyin_fancy": "máng",
+    "pinyin": "mang2",
+    "definition": "busy; hurriedly; to hurry; to rush",
+    "words": "忙"
+  },
+  {
+    "simplified": "么",
+    "traditional": "麼",
+    "pinyin_fancy": "ma",
+    "pinyin": "yao1",
+    "definition": "exclamatory final particle; interrogative final particle; suffix, used to form interrogative 甚麼|什么, what?, indefinite 這麼|这么 thus etc",
+    "words": "什么"
+  },
+  {
+    "simplified": "没",
+    "traditional": "沒",
+    "pinyin_fancy": "mò",
+    "pinyin": "mei",
+    "definition": "(negative prefix for verbs); have not; not; drowned; to end; to die; to inundate",
+    "words": "没、没关系、没什么、没用、没有"
+  },
+  {
+    "simplified": "门",
+    "traditional": "門",
+    "pinyin_fancy": "mén",
+    "pinyin": "men2",
+    "definition": "gate; door; CL:扇[shàn]; gateway; doorway; CL:個|个[gè]; opening; valve; switch; way to do something; knack; family; house; (religious) sect; school (of thought); class; category; phylum or division (taxonomy); classifier for large guns; classifier for lessons, subjects, branches of technology",
+    "words": "门、门口"
+  },
+  {
+    "simplified": "们",
+    "traditional": "們",
+    "pinyin_fancy": "men",
+    "pinyin": "men5",
+    "definition": "plural marker for pronouns, and nouns referring to individuals",
+    "words": "们（朋友们）、我们、你们"
+  },
+  {
+    "simplified": "面",
+    "traditional": "面",
+    "pinyin_fancy": "miàn",
+    "pinyin": "mian4",
+    "definition": "face; side; surface; aspect; top; classifier for flat surfaces such as drums, mirrors, flags etc; variant of 麵|面[miàn]; flour; noodles",
+    "words": "面包"
+  },
+  {
+    "simplified": "名",
+    "traditional": "名",
+    "pinyin_fancy": "míng",
+    "pinyin": "ming2",
+    "definition": "name; noun (part of speech); place (e.g. among winners); famous; classifier for people",
+    "words": "名字"
+  },
+  {
+    "simplified": "明",
+    "traditional": "明",
+    "pinyin_fancy": "míng",
+    "pinyin": "ming2",
+    "definition": "Ming Dynasty (1368-1644); surname Ming; Ming (c. 2000 BC), fourth of the legendary Flame Emperors, 炎帝[Yán dì] descended from Shennong 神農|神农[Shén nóng] Farmer God; bright; opposite: dark 暗[àn]; (of meaning) clear; to understand; next; public or open; wise; generic term for a sacrifice to the gods",
+    "words": "明白、明年、明天"
+  },
+  {
+    "simplified": "拿",
+    "traditional": "拿",
+    "pinyin_fancy": "ná",
+    "pinyin": "na2",
+    "definition": "to hold; to seize; to catch; to apprehend; to take",
+    "words": "拿"
+  },
+  {
+    "simplified": "哪",
+    "traditional": "哪",
+    "pinyin_fancy": "na",
+    "pinyin": "na",
+    "definition": "how; which; (particle equivalent to 啊 after noun ending in -n); which? (interrogative, followed by classifier or numeral-classifier)",
+    "words": "哪、哪里、哪儿"
+  },
+  {
+    "simplified": "那",
+    "traditional": "那",
+    "pinyin_fancy": "nà",
+    "pinyin": "na4",
+    "definition": "variant of 哪[nǎ]; that; those; then (in that case); commonly pr. [nèi] before a classifier, esp. in Beijing",
+    "words": "那、那里、那么、那儿、那些、那样"
+  },
+  {
+    "simplified": "奶",
+    "traditional": "奶",
+    "pinyin_fancy": "nǎi",
+    "pinyin": "nai3",
+    "definition": "breast; lady; milk",
+    "words": "奶"
+  },
+  {
+    "simplified": "男",
+    "traditional": "男",
+    "pinyin_fancy": "nán",
+    "pinyin": "nan2",
+    "definition": "male; Baron, lowest of five orders of nobility 五等爵位[wǔ děng jué wèi]; CL:個|个[gè]",
+    "words": "男、男孩儿、男朋友、男生"
+  },
+  {
+    "simplified": "南",
+    "traditional": "南",
+    "pinyin_fancy": "nán",
+    "pinyin": "nan2",
+    "definition": "south",
+    "words": "南、南边"
+  },
+  {
+    "simplified": "难",
+    "traditional": "難",
+    "pinyin_fancy": "nàn",
+    "pinyin": "nan4",
+    "definition": "difficult (to...); problem; difficulty; difficult; not good; disaster; distress; to scold",
+    "words": "难"
+  },
+  {
+    "simplified": "脑",
+    "traditional": "腦",
+    "pinyin_fancy": "nǎo",
+    "pinyin": "nao3",
+    "definition": "brain; mind; head; essence",
+    "words": "脑子、脑袋"
+  },
+  {
+    "simplified": "呢",
+    "traditional": "呢",
+    "pinyin_fancy": "nī",
+    "pinyin": "ne",
+    "definition": "particle indicating that a previously asked question is to be applied to the preceding word ('What about ...?', 'And ...?'); particle for inquiring about location ('Where is ...?'); particle signaling a pause, to emphasize the preceding words and allow the listener time to take them on board ('ok?', 'are you with me?'); (at the end of a declarative sentence) particle indicating continuation of a state or action; particle indicating strong affirmation; this (Cantonese); see also 哩[lī]; woolen material",
+    "words": "呢"
+  },
+  {
+    "simplified": "能",
+    "traditional": "能",
+    "pinyin_fancy": "néng",
+    "pinyin": "neng2",
+    "definition": "to be able to; to be capable of; ability; capability; able; capable; can possibly; (usually used in the negative) to have the possibility of",
+    "words": "能"
+  },
+  {
+    "simplified": "你",
+    "traditional": "你",
+    "pinyin_fancy": "nǐ",
+    "pinyin": "ni3",
+    "definition": "you (informal, as opposed to courteous 您[nín])",
+    "words": "你、你们"
+  },
+  {
+    "simplified": "年",
+    "traditional": "年",
+    "pinyin_fancy": "nián",
+    "pinyin": "nian2",
+    "definition": "year; CL:個|个[gè]",
+    "words": "年"
+  },
+  {
+    "simplified": "牛",
+    "traditional": "牛",
+    "pinyin_fancy": "niú",
+    "pinyin": "niu2",
+    "definition": "ox; cow; bull; CL:條|条[tiáo],頭|头[tóu]; (slang) awesome",
+    "words": "牛、牛奶"
+  },
+  {
+    "simplified": "努",
+    "traditional": "努",
+    "pinyin_fancy": "nǔ",
+    "pinyin": "nu3",
+    "definition": "to exert; to strive",
+    "words": "努力"
+  },
+  {
+    "simplified": "女",
+    "traditional": "女",
+    "pinyin_fancy": "rǔ",
+    "pinyin": "nu3",
+    "definition": "female; woman; daughter; archaic variant of 汝[rǔ]",
+    "words": "女、女儿、女孩儿、女朋友、女生"
+  },
+  {
+    "simplified": "怕",
+    "traditional": "怕",
+    "pinyin_fancy": "pà",
+    "pinyin": "pa4",
+    "definition": "to be afraid; to fear; to dread; to be unable to endure; perhaps",
+    "words": "怕"
+  },
+  {
+    "simplified": "旁",
+    "traditional": "旁",
+    "pinyin_fancy": "páng",
+    "pinyin": "pang2",
+    "definition": "beside; one side; other; side; self; the right-hand side of split Chinese character, often the phonetic",
+    "words": "旁边"
+  },
+  {
+    "simplified": "跑",
+    "traditional": "跑",
+    "pinyin_fancy": "pǎo",
+    "pinyin": "pao3",
+    "definition": "(of an animal) to paw (the ground); to run; to run away; to escape; to run around (on errands etc); (of a gas or liquid) to leak or evaporate; (verb complement) away; off",
+    "words": "跑"
+  },
+  {
+    "simplified": "朋",
+    "traditional": "朋",
+    "pinyin_fancy": "péng",
+    "pinyin": "peng2",
+    "definition": "friend",
+    "words": "朋友"
+  },
+  {
+    "simplified": "票",
+    "traditional": "票",
+    "pinyin_fancy": "piào",
+    "pinyin": "piao4",
+    "definition": "ticket; ballot; bank note; CL:張|张[zhāng]; person held for ransom; amateur performance of Chinese opera; classifier for shipments and business transactions (topolect)",
+    "words": "票"
+  },
+  {
+    "simplified": "平",
+    "traditional": "平",
+    "pinyin_fancy": "píng",
+    "pinyin": "ping2",
+    "definition": "flat; level; equal; to tie (make the same score); to draw (score); calm; peaceful; see also 平聲|平声[píng shēng]",
+    "words": "平安"
+  },
+  {
+    "simplified": "七",
+    "traditional": "七",
+    "pinyin_fancy": "qī",
+    "pinyin": "qi1",
+    "definition": "seven; 7",
+    "words": "七"
+  },
+  {
+    "simplified": "期",
+    "traditional": "期",
+    "pinyin_fancy": "qī",
+    "pinyin": "qi1",
+    "definition": "a period of time; phase; stage; (used for issue of a periodical, courses of study); time; term; period; to hope; Taiwan pr. [qí]",
+    "words": "日期"
+  },
+  {
+    "simplified": "起",
+    "traditional": "起",
+    "pinyin_fancy": "qǐ",
+    "pinyin": "qi3",
+    "definition": "to rise; to raise; to get up; to set out; to start; to appear; to launch; to initiate (action); to draft; to establish; to get (from a depot or counter); verb suffix, to start; (before place or time) starting from; classifier for occurrences or unpredictable events: case, instance; classifier for groups: batch, group",
+    "words": "起、起来"
+  },
+  {
+    "simplified": "气",
+    "traditional": "氣",
+    "pinyin_fancy": " qì",
+    "pinyin": "qi4",
+    "definition": "gas; air; smell; weather; to make angry; to annoy; to get angry; vital energy; qi",
+    "words": "星期"
+  },
+  {
+    "simplified": "汽",
+    "traditional": "汽",
+    "pinyin_fancy": "qì",
+    "pinyin": "qi4",
+    "definition": "steam; vapor",
+    "words": "汽车"
+  },
+  {
+    "simplified": "前",
+    "traditional": "前",
+    "pinyin_fancy": "qián",
+    "pinyin": "qian2",
+    "definition": "front; forward; ahead; ago; before; first; former; formerly; future; BC (e.g. 前293年)",
+    "words": "前、前边、前面"
+  },
+  {
+    "simplified": "钱",
+    "traditional": "錢",
+    "pinyin_fancy": "qián",
+    "pinyin": "qian2",
+    "definition": "coin; money; CL:筆|笔[bǐ]; unit of weight, one tenth of a tael 兩|两[liǎng]",
+    "words": "钱、钱包"
+  },
+  {
+    "simplified": "请",
+    "traditional": "請",
+    "pinyin_fancy": "qǐng",
+    "pinyin": "qing3",
+    "definition": "to ask; to invite; please (do sth); to treat (to a meal etc); to request",
+    "words": "请、请假、请进、请问、请坐"
+  },
+  {
+    "simplified": "球",
+    "traditional": "球",
+    "pinyin_fancy": "qiú",
+    "pinyin": "qiu2",
+    "definition": "ball; sphere; globe; CL:個|个[gè]; ball game; match; CL:場|场[chǎng]",
+    "words": "球"
+  },
+  {
+    "simplified": "去",
+    "traditional": "去",
+    "pinyin_fancy": " qù",
+    "pinyin": "qu4",
+    "definition": "to go; to go to (a place); to cause to go or send (sb); to remove; to get rid of; (when used either before or after a verb) to go in order to do sth; to be apart from in space or time; (after a verb of motion indicates movement away from the speaker); (used after certain verbs to indicate detachment or separation); (of a time or an event etc) just passed or elapsed",
+    "words": "去、去年"
+  },
+  {
+    "simplified": "全",
+    "traditional": "全",
+    "pinyin_fancy": "quán",
+    "pinyin": "quan2",
+    "definition": "all; whole; entire; every; complete",
+    "words": "全"
+  },
+  {
+    "simplified": "然",
+    "traditional": "然",
+    "pinyin_fancy": "rán",
+    "pinyin": "ran2",
+    "definition": "correct; right; so; thus; like this; -ly",
+    "words": "然后"
+  },
+  {
+    "simplified": "让",
+    "traditional": "讓",
+    "pinyin_fancy": "ràng",
+    "pinyin": "rang4",
+    "definition": "to yield; to permit; to let sb do sth; to have sb do sth",
+    "words": "让"
+  },
+  {
+    "simplified": "热",
+    "traditional": "熱",
+    "pinyin_fancy": "rè",
+    "pinyin": "re4",
+    "definition": "to warm up; to heat up; hot (of weather); heat; fervent",
+    "words": "热"
+  },
+  {
+    "simplified": "人",
+    "traditional": "人",
+    "pinyin_fancy": "rén",
+    "pinyin": "ren2",
+    "definition": "man; person; people; CL:個|个[gè],位[wèi]",
+    "words": "人"
+  },
+  {
+    "simplified": "认",
+    "traditional": "認",
+    "pinyin_fancy": "rèn",
+    "pinyin": "ren4",
+    "definition": "to recognize; to know; to admit",
+    "words": "认识、认为、认真"
+  },
+  {
+    "simplified": "日",
+    "traditional": "日",
+    "pinyin_fancy": "rì",
+    "pinyin": "ri4",
+    "definition": "sun; day; date, day of the month; abbr. for 日本 Japan",
+    "words": "日、日期"
+  },
+  {
+    "simplified": "肉",
+    "traditional": "肉",
+    "pinyin_fancy": "ròu",
+    "pinyin": "rou4",
+    "definition": "meat; flesh; pulp (of a fruit)",
+    "words": "肉"
+  },
+  {
+    "simplified": "三",
+    "traditional": "三",
+    "pinyin_fancy": "sān",
+    "pinyin": "san1",
+    "definition": "three; 3",
+    "words": "三"
+  },
+  {
+    "simplified": "山",
+    "traditional": "山",
+    "pinyin_fancy": "shān",
+    "pinyin": "shan1",
+    "definition": "mountain; hill; anything that resembles a mountain; CL:座[zuò]; bundled straw in which silkworms spin cocoons; gable",
+    "words": "山"
+  },
+  {
+    "simplified": "上",
+    "traditional": "上",
+    "pinyin_fancy": "shàng",
+    "pinyin": "shang4",
+    "definition": "see 上聲|上声[shǎng shēng]; on top; upon; above; upper; previous; first (of multiple parts); to climb; to get onto; to go up; to attend (class or university)",
+    "words": "上（动）、上（名）、上班、上边、上车、上次、上课、上来、上面、上去、上网、上午"
+  },
+  {
+    "simplified": "少",
+    "traditional": "少",
+    "pinyin_fancy": "shào",
+    "pinyin": "shao4",
+    "definition": "few; little; lack; young",
+    "words": "少"
+  },
+  {
+    "simplified": "谁",
+    "traditional": "誰",
+    "pinyin_fancy": "shéi",
+    "pinyin": "shei2",
+    "definition": "who; also pr. [shuí]",
+    "words": "谁"
+  },
+  {
+    "simplified": "身",
+    "traditional": "身",
+    "pinyin_fancy": "shēn",
+    "pinyin": "shen1",
+    "definition": "body; life; oneself; personally; one's morality and conduct; the main part of a structure or body; pregnant; classifier for sets of clothes: suit, twinset; Kangxi radical 158",
+    "words": "身上、身体"
+  },
+  {
+    "simplified": "什",
+    "traditional": "什",
+    "pinyin_fancy": " shèn",
+    "pinyin": "shen4",
+    "definition": "what; very; extremely; any",
+    "words": "什么"
+  },
+  {
+    "simplified": "生",
+    "traditional": "生",
+    "pinyin_fancy": "shēng",
+    "pinyin": "sheng1",
+    "definition": "to be born; to give birth; life; to grow; raw, uncooked",
+    "words": "生活、生气、生日"
+  },
+  {
+    "simplified": "师",
+    "traditional": "師",
+    "pinyin_fancy": "shī",
+    "pinyin": "shi1",
+    "definition": "teacher; master; expert; model; army division; (old) troops; to dispatch troops",
+    "words": "老师"
+  },
+  {
+    "simplified": "十",
+    "traditional": "十",
+    "pinyin_fancy": "shí",
+    "pinyin": "shi2",
+    "definition": "ten; 10",
+    "words": "十"
+  },
+  {
+    "simplified": "时",
+    "traditional": "時",
+    "pinyin_fancy": "shí",
+    "pinyin": "shi2",
+    "definition": "o'clock; time; when; hour; season; period",
+    "words": "时候、时间"
+  },
+  {
+    "simplified": "识",
+    "traditional": "識",
+    "pinyin_fancy": "shì",
+    "pinyin": "shi",
+    "definition": "to know; knowledge; Taiwan pr. [shì]; to record; to write a footnote",
+    "words": "认识、认为、认真"
+  },
+  {
+    "simplified": "事",
+    "traditional": "事",
+    "pinyin_fancy": "shì",
+    "pinyin": "shi4",
+    "definition": "matter; thing; item; work; affair; CL:件[jiàn],樁|桩[zhuāng]",
+    "words": "事"
+  },
+  {
+    "simplified": "视",
+    "traditional": "視",
+    "pinyin_fancy": "shì",
+    "pinyin": "shi4",
+    "definition": "to look at; to regard; to inspect",
+    "words": "电视、视频"
+  },
+  {
+    "simplified": "是",
+    "traditional": "是",
+    "pinyin_fancy": "shì",
+    "pinyin": "shi4",
+    "definition": "is; are; am; yes; to be",
+    "words": "是、是不是"
+  },
+  {
+    "simplified": "手",
+    "traditional": "手",
+    "pinyin_fancy": "shǒu",
+    "pinyin": "shou3",
+    "definition": "hand; (formal) to hold; person engaged in certain types of work; person skilled in certain types of work; personal(ly); convenient; CL:雙|双[shuāng],隻|只[zhī]",
+    "words": "手、手机"
+  },
+  {
+    "simplified": "书",
+    "traditional": "書",
+    "pinyin_fancy": "shū",
+    "pinyin": "shu1",
+    "definition": "abbr. for 書經|书经[shū jīng]; book; letter; document; CL:本[běn],冊|册[cè],部[bù]; to write",
+    "words": "书、书包、书店"
+  },
+  {
+    "simplified": "树",
+    "traditional": "樹",
+    "pinyin_fancy": "shù",
+    "pinyin": "shu4",
+    "definition": "tree; CL:棵[kē]; to cultivate; to set up",
+    "words": "树"
+  },
+  {
+    "simplified": "水",
+    "traditional": "水",
+    "pinyin_fancy": "shuǐ",
+    "pinyin": "shui3",
+    "definition": "water; river; liquid; beverage; additional charges or income; (of clothes) classifier for number of washes",
+    "words": "水、水果"
+  },
+  {
+    "simplified": "睡",
+    "traditional": "睡",
+    "pinyin_fancy": " shuì",
+    "pinyin": "shui4",
+    "definition": "to sleep; to lie down",
+    "words": "睡、睡觉"
+  },
+  {
+    "simplified": "说",
+    "traditional": "說",
+    "pinyin_fancy": "shuō",
+    "pinyin": "shui",
+    "definition": "to persuade; to speak; to say; to explain; to scold; to tell off; a theory (usually in compounds such as 日心说 heliocentric theory)",
+    "words": "说、说话"
+  },
+  {
+    "simplified": "死",
+    "traditional": "死",
+    "pinyin_fancy": "sǐ",
+    "pinyin": "si3",
+    "definition": "to die; impassable; uncrossable; inflexible; rigid; extremely",
+    "words": "死"
+  },
+  {
+    "simplified": "四",
+    "traditional": "四",
+    "pinyin_fancy": "sì",
+    "pinyin": "si4",
+    "definition": "four; 4",
+    "words": "四"
+  },
+  {
+    "simplified": "送",
+    "traditional": "送",
+    "pinyin_fancy": "sòng",
+    "pinyin": "song4",
+    "definition": "to deliver; to carry; to give (as a present); to present (with); to see off; to send",
+    "words": "送"
+  },
+  {
+    "simplified": "所",
+    "traditional": "所",
+    "pinyin_fancy": "suǒ",
+    "pinyin": "suo3",
+    "definition": "actually; place; classifier for houses, small buildings, institutions etc; that which; particle introducing a relative clause or passive; CL:個|个[gè]",
+    "words": "所以"
+  },
+  {
+    "simplified": "他",
+    "traditional": "他",
+    "pinyin_fancy": "tā",
+    "pinyin": "ta1",
+    "definition": "he or him; (used for either sex when the sex is unknown or unimportant); (used before sb's name for emphasis); (used as a meaningless mock object); other; another",
+    "words": "他、他们"
+  },
+  {
+    "simplified": "她",
+    "traditional": "她",
+    "pinyin_fancy": "tā",
+    "pinyin": "ta1",
+    "definition": "she",
+    "words": "她、她们"
+  },
+  {
+    "simplified": "太",
+    "traditional": "太",
+    "pinyin_fancy": "tài",
+    "pinyin": "tai4",
+    "definition": "highest; greatest; too (much); very; extremely",
+    "words": "太"
+  },
+  {
+    "simplified": "体",
+    "traditional": "體",
+    "pinyin_fancy": "tǐ",
+    "pinyin": "ti3",
+    "definition": "body; form; style; system",
+    "words": "身体"
+  },
+  {
+    "simplified": "天",
+    "traditional": "天",
+    "pinyin_fancy": "tiān",
+    "pinyin": "tian1",
+    "definition": "day; sky; heaven",
+    "words": "天、天气"
+  },
+  {
+    "simplified": "听",
+    "traditional": "聽",
+    "pinyin_fancy": "tìng",
+    "pinyin": "ting4",
+    "definition": "to listen; to hear; to obey; a can (loanword from English 'tin'); classifier for canned beverages; (literary pronunciation, still advocated in Taiwan) to rule; to sentence; to allow",
+    "words": "听、听见、听说"
+  },
+  {
+    "simplified": "同",
+    "traditional": "同",
+    "pinyin_fancy": "tòng",
+    "pinyin": "tong2",
+    "definition": "like; same; similar; together; alike; with; see 衚衕|胡同[hú tòng]",
+    "words": "同学、同意"
+  },
+  {
+    "simplified": "外",
+    "traditional": "外",
+    "pinyin_fancy": "wài",
+    "pinyin": "wai4",
+    "definition": "outside; in addition; foreign; external",
+    "words": "外、外边、外国、外面、外语"
+  },
+  {
+    "simplified": "完",
+    "traditional": "完",
+    "pinyin_fancy": "wán",
+    "pinyin": "wan2",
+    "definition": "to finish; to be over; whole; complete; entire",
+    "words": "完"
+  },
+  {
+    "simplified": "玩",
+    "traditional": "玩",
+    "pinyin_fancy": "wán",
+    "pinyin": "wan2",
+    "definition": "toy; sth used for amusement; curio or antique (Taiwan pr. [wàn]); to play; to have fun; to trifle with; to keep sth for entertainment",
+    "words": "玩儿"
+  },
+  {
+    "simplified": "晚",
+    "traditional": "晚",
+    "pinyin_fancy": "wǎn",
+    "pinyin": "wan3",
+    "definition": "evening; night; late",
+    "words": "晚、晚安、晚饭、晚上"
+  },
+  {
+    "simplified": "网",
+    "traditional": "網",
+    "pinyin_fancy": "wǎng",
+    "pinyin": "wang3",
+    "definition": "net; network",
+    "words": "网上"
+  },
+  {
+    "simplified": "忘",
+    "traditional": "忘",
+    "pinyin_fancy": "wàng",
+    "pinyin": "wang4",
+    "definition": "to forget; to overlook; to neglect",
+    "words": "忘、忘记"
+  },
+  {
+    "simplified": "为",
+    "traditional": "為",
+    "pinyin_fancy": "wèi",
+    "pinyin": "wei4",
+    "definition": "as (in the capacity of); to take sth as; to act as; to serve as; to behave as; to become; to be; to do; by (in the passive voice); because of; for; to; variant of 為|为[wéi]; as (i.e. in the capacity of); to take sth as; to act as; to serve as; to behave as; to become; to be; to do; variant of 為|为[wèi], because of; for; to",
+    "words": "为了、为什么"
+  },
+  {
+    "simplified": "文",
+    "traditional": "文",
+    "pinyin_fancy": "wén",
+    "pinyin": "wen2",
+    "definition": "language; culture; writing; formal; literary; gentle; (old) classifier for coins; Kangxi radical 118",
+    "words": "中文"
+  },
+  {
+    "simplified": "问",
+    "traditional": "問",
+    "pinyin_fancy": "wèn",
+    "pinyin": "wen4",
+    "definition": "to ask",
+    "words": "问"
+  },
+  {
+    "simplified": "我",
+    "traditional": "我",
+    "pinyin_fancy": "wǒ",
+    "pinyin": "wo3",
+    "definition": "I; me; my",
+    "words": "我、我们"
+  },
+  {
+    "simplified": "五",
+    "traditional": "五",
+    "pinyin_fancy": "wǔ",
+    "pinyin": "wu3",
+    "definition": "five; 5",
+    "words": "五"
+  },
+  {
+    "simplified": "午",
+    "traditional": "午",
+    "pinyin_fancy": "wǔ",
+    "pinyin": "wu3",
+    "definition": "7th earthly branch: 11 a.m.-1 p.m., noon, 5th solar month (6th June-6th July), year of the Horse",
+    "words": "午饭"
+  },
+  {
+    "simplified": "西",
+    "traditional": "西",
+    "pinyin_fancy": "xī",
+    "pinyin": "xi1",
+    "definition": "the West; abbr. for Spain 西班牙[Xī bān yá]; Spanish; west",
+    "words": "西、西边"
+  },
+  {
+    "simplified": "息",
+    "traditional": "息",
+    "pinyin_fancy": " xī",
+    "pinyin": "xi1",
+    "definition": "breath; news; interest (on an investment or loan); to cease; to stop; to rest; Taiwan pr. [xí]",
+    "words": "信息"
+  },
+  {
+    "simplified": "习",
+    "traditional": "習",
+    "pinyin_fancy": "xí",
+    "pinyin": "xi2",
+    "definition": "to practice; to study; habit; surname Xi; ",
+    "words": "学习"
+  },
+  {
+    "simplified": "洗",
+    "traditional": "洗",
+    "pinyin_fancy": "xǐ",
+    "pinyin": "xi3",
+    "definition": "to wash; to bathe; to develop (photo)",
+    "words": "洗、洗手间"
+  },
+  {
+    "simplified": "喜",
+    "traditional": "喜",
+    "pinyin_fancy": "xǐ",
+    "pinyin": "xi3",
+    "definition": "to be fond of; to like; to enjoy; to be happy; to feel pleased; happiness; delight; glad",
+    "words": "喜欢"
+  },
+  {
+    "simplified": "系",
+    "traditional": "系",
+    "pinyin_fancy": "xì",
+    "pinyin": "xi4",
+    "definition": "to connect; to relate to; to tie up; to bind; to be (literary); system; department; faculty; to tie; to fasten; to button up; to connect; to arrest; to worry",
+    "words": ""
+  },
+  {
+    "simplified": "下",
+    "traditional": "下",
+    "pinyin_fancy": " xià",
+    "pinyin": "xia4",
+    "definition": "down; downwards; below; lower; later; next (week etc); second (of two parts); to decline; to go down; to arrive at (a decision, conclusion etc)",
+    "words": "下（动）、下（名）、下班、下边、下车、下次、下课、下来、下面、下去、下午"
+  },
+  {
+    "simplified": "先",
+    "traditional": "先",
+    "pinyin_fancy": "xiān",
+    "pinyin": "xian1",
+    "definition": "early; prior; former; in advance; first",
+    "words": "先、先生"
+  },
+  {
+    "simplified": "现",
+    "traditional": "現",
+    "pinyin_fancy": "xiàn",
+    "pinyin": "xian4",
+    "definition": "to appear; present; now; existing; current",
+    "words": "现在"
+  },
+  {
+    "simplified": "想",
+    "traditional": "想",
+    "pinyin_fancy": " xiǎng",
+    "pinyin": "xiang3",
+    "definition": "to think; to believe; to suppose; to wish; to want; to miss (feel wistful about the absence of sb or sth)",
+    "words": "想"
+  },
+  {
+    "simplified": "向",
+    "traditional": "向",
+    "pinyin_fancy": "xiàng",
+    "pinyin": "xiang4",
+    "definition": "towards; to face; to turn towards; direction; to support; to side with; shortly before; formerly; always; all along",
+    "words": "向"
+  },
+  {
+    "simplified": "小",
+    "traditional": "小",
+    "pinyin_fancy": "xiǎo",
+    "pinyin": "xiao3",
+    "definition": "small; tiny; few; young",
+    "words": "小、小孩儿、小姐、小朋友、小时、小学、小学生"
+  },
+  {
+    "simplified": "笑",
+    "traditional": "笑",
+    "pinyin_fancy": "xiào",
+    "pinyin": "xiao4",
+    "definition": "laugh; smile; CL:個|个[gè]",
+    "words": "笑"
+  },
+  {
+    "simplified": "些",
+    "traditional": "些",
+    "pinyin_fancy": "xiē",
+    "pinyin": "xie1",
+    "definition": "some; few; several; measure word indicating a small amount or small number (greater than 1)",
+    "words": "一些"
+  },
+  {
+    "simplified": "写",
+    "traditional": "寫",
+    "pinyin_fancy": "xiě",
+    "pinyin": "xie3",
+    "definition": "to write",
+    "words": "写"
+  },
+  {
+    "simplified": "谢",
+    "traditional": "謝",
+    "pinyin_fancy": "xiè",
+    "pinyin": "xie4",
+    "definition": "to thank; to apologize; to wither (of flowers, leaves etc); to decline",
+    "words": "谢谢"
+  },
+  {
+    "simplified": "新",
+    "traditional": "新",
+    "pinyin_fancy": "xīn",
+    "pinyin": "xin1",
+    "definition": "abbr. for Xinjiang 新疆[Xīn jiāng] or Singapore 新加坡[Xīn jiā pō]; new; newly; meso- (chemistry)",
+    "words": "新、新年"
+  },
+  {
+    "simplified": "星",
+    "traditional": "星",
+    "pinyin_fancy": "xīng",
+    "pinyin": "xing1",
+    "definition": "star; satellite; small amount",
+    "words": "星期、星期日、星期天"
+  },
+  {
+    "simplified": "行",
+    "traditional": "行",
+    "pinyin_fancy": "xíng",
+    "pinyin": "hang",
+    "definition": "a row; series; age order (of brothers); profession; professional; relating to company; to walk; to go; to travel; a visit; temporary; makeshift; current; in circulation; to do; to perform; capable; competent; effective; all right; OK!; will do; behavior; conduct",
+    "words": "行"
+  },
+  {
+    "simplified": "兴",
+    "traditional": "興",
+    "pinyin_fancy": "xīng",
+    "pinyin": "xing4",
+    "definition": "to rise; to flourish; to become popular; to start; to encourage; to get up; (often used in the negative) to permit or allow (topolect); maybe (topolect); feeling or desire to do sth; interest in sth; excitement",
+    "words": "高兴"
+  },
+  {
+    "simplified": "休",
+    "traditional": "休",
+    "pinyin_fancy": "xiū",
+    "pinyin": "xiu1",
+    "definition": "to rest; to stop doing sth for a period of time; to cease; (imperative) don't",
+    "words": "休息"
+  },
+  {
+    "simplified": "学",
+    "traditional": "學",
+    "pinyin_fancy": "xué",
+    "pinyin": "xue2",
+    "definition": "to learn; to study; science; -ology",
+    "words": "学、学生、学习、学院"
+  },
+  {
+    "simplified": "样",
+    "traditional": "樣",
+    "pinyin_fancy": "yàng",
+    "pinyin": "yang4",
+    "definition": "manner; pattern; way; appearance; shape; CL:個|个[gè]",
+    "words": "一样"
+  },
+  {
+    "simplified": "要",
+    "traditional": "要",
+    "pinyin_fancy": "yào",
+    "pinyin": "yao4",
+    "definition": "to demand; to request; to coerce; important; vital; to want; will; going to (as future auxiliary); may; must; (used in a comparison) must be; probably",
+    "words": "要"
+  },
+  {
+    "simplified": "也",
+    "traditional": "也",
+    "pinyin_fancy": "yě",
+    "pinyin": "ye3",
+    "definition": "also; too; (in Classical Chinese) final particle implying affirmation",
+    "words": "也"
+  },
+  {
+    "simplified": "一",
+    "traditional": "一",
+    "pinyin_fancy": "yī",
+    "pinyin": "yi1",
+    "definition": "one; 1; single; a (article); as soon as; entire; whole; all; throughout; 'one' radical in Chinese characters (Kangxi radical 1)",
+    "words": "一、一半、一会儿、一块儿、一下儿、一样、一边、一点儿、一起、一些"
+  },
+  {
+    "simplified": "衣",
+    "traditional": "衣",
+    "pinyin_fancy": "yì",
+    "pinyin": "yi4",
+    "definition": "clothes; CL:件[jiàn]; to dress; to wear; to put on (clothes)",
+    "words": "衣服"
+  },
+  {
+    "simplified": "医",
+    "traditional": "醫",
+    "pinyin_fancy": "yī",
+    "pinyin": "yi1",
+    "definition": "medical; medicine; doctor; to cure; to treat",
+    "words": "医生、医院"
+  },
+  {
+    "simplified": "以",
+    "traditional": "以",
+    "pinyin_fancy": "yǐ",
+    "pinyin": "yi3",
+    "definition": "abbr. for Israel 以色列[Yǐ sè liè]; to use; according to; so as to; by means of; in order to; by; with; because",
+    "words": "以后、以前"
+  },
+  {
+    "simplified": "意",
+    "traditional": "意",
+    "pinyin_fancy": "yì",
+    "pinyin": "yi4",
+    "definition": "Italy; Italian; abbr. for 意大利[Yì dà lì]; idea; meaning; thought; to think; wish; desire; intention; to expect; to anticipate",
+    "words": "意思"
+  },
+  {
+    "simplified": "因",
+    "traditional": "因",
+    "pinyin_fancy": "yīn",
+    "pinyin": "yin1",
+    "definition": "cause; reason; because",
+    "words": "因为"
+  },
+  {
+    "simplified": "应",
+    "traditional": "應",
+    "pinyin_fancy": "yīng",
+    "pinyin": "ying4",
+    "definition": "to agree (to do sth); should; ought to; to answer; to respond; to comply with; to deal or cope with",
+    "words": "应该"
+  },
+  {
+    "simplified": "用",
+    "traditional": "用",
+    "pinyin_fancy": "yòng",
+    "pinyin": "yong4",
+    "definition": "to use; to employ; to have to; to eat or drink; expense or outlay; usefulness; hence; therefore",
+    "words": "用"
+  },
+  {
+    "simplified": "友",
+    "traditional": "友",
+    "pinyin_fancy": "yǒu",
+    "pinyin": "you3",
+    "definition": "friend",
+    "words": "朋友"
+  },
+  {
+    "simplified": "有",
+    "traditional": "有",
+    "pinyin_fancy": "yǒu",
+    "pinyin": "you3",
+    "definition": "to have; there is; there are; to exist; to be",
+    "words": "有、有的、有名、有时候|有时、有（一）点儿、有（一）些、有用"
+  },
+  {
+    "simplified": "又",
+    "traditional": "又",
+    "pinyin_fancy": "yòu",
+    "pinyin": "you4",
+    "definition": "(once) again; also; both... and...; and yet; (used for emphasis) anyway",
+    "words": "又"
+  },
+  {
+    "simplified": "语",
+    "traditional": "語",
+    "pinyin_fancy": "yù",
+    "pinyin": "yu4",
+    "definition": "dialect; language; speech; to tell to",
+    "words": "汉语、语言"
+  },
+  {
+    "simplified": "远",
+    "traditional": "遠",
+    "pinyin_fancy": "yuàn",
+    "pinyin": "yuan4",
+    "definition": "far; distant; remote; to distance oneself from (classical)",
+    "words": "远"
+  },
+  {
+    "simplified": "院",
+    "traditional": "院",
+    "pinyin_fancy": "yuàn",
+    "pinyin": "yuan4",
+    "definition": "courtyard; institution; CL:個|个[gè]",
+    "words": "医院、院子"
+  },
+  {
+    "simplified": "月",
+    "traditional": "月",
+    "pinyin_fancy": "yuè",
+    "pinyin": "yue4",
+    "definition": "moon; month; CL:個|个[gè],輪|轮[lún]",
+    "words": "月"
+  },
+  {
+    "simplified": "再",
+    "traditional": "再",
+    "pinyin_fancy": "zài",
+    "pinyin": "zai4",
+    "definition": "again; once more; re-; second; another; then (after sth, and not until then)",
+    "words": "再、再见"
+  },
+  {
+    "simplified": "在",
+    "traditional": "在",
+    "pinyin_fancy": "zài",
+    "pinyin": "zai4",
+    "definition": "(located) at; (to be) in; to exist; in the middle of doing sth; (indicating an action in progress)",
+    "words": "在、在家"
+  },
+  {
+    "simplified": "早",
+    "traditional": "早",
+    "pinyin_fancy": "zǎo",
+    "pinyin": "zao3",
+    "definition": "early; morning; Good morning!",
+    "words": "早、早饭、早上"
+  },
+  {
+    "simplified": "怎",
+    "traditional": "怎",
+    "pinyin_fancy": "zěn",
+    "pinyin": "zen3",
+    "definition": "how",
+    "words": "怎么、怎么样"
+  },
+  {
+    "simplified": "站",
+    "traditional": "站",
+    "pinyin_fancy": "zhàn",
+    "pinyin": "zhan4",
+    "definition": "station; to stand; to halt; to stop; branch of a company or organization; website",
+    "words": "站"
+  },
+  {
+    "simplified": "找",
+    "traditional": "找",
+    "pinyin_fancy": "zhǎo",
+    "pinyin": "zhao3",
+    "definition": "to try to find; to look for; to call on sb; to find; to seek; to return; to give change",
+    "words": "找、找到"
+  },
+  {
+    "simplified": "这",
+    "traditional": "這",
+    "pinyin_fancy": "zhè",
+    "pinyin": "zhe4",
+    "definition": "this; these; (commonly pr. [zhèi] before a classifier, esp. in Beijing)",
+    "words": "这、这里、这么、这儿、这些、这样"
+  },
+  {
+    "simplified": "着",
+    "traditional": "著",
+    "pinyin_fancy": " zhù",
+    "pinyin": "zhe",
+    "definition": "to make known; to show; to prove; to write; book; outstanding",
+    "words": "着"
+  },
+  {
+    "simplified": "真",
+    "traditional": "真",
+    "pinyin_fancy": "zhēn",
+    "pinyin": "zhen1",
+    "definition": "really; truly; indeed; real; true; genuine",
+    "words": "真、真的"
+  },
+  {
+    "simplified": "正",
+    "traditional": "正",
+    "pinyin_fancy": "zhèng",
+    "pinyin": "zheng4",
+    "definition": "first month of the lunar year; just (right); main; upright; straight; correct; positive; greater than zero; principle",
+    "words": "正、正在"
+  },
+  {
+    "simplified": "知",
+    "traditional": "知",
+    "pinyin_fancy": "zhī",
+    "pinyin": "zhi1",
+    "definition": "to know; to be aware",
+    "words": "知道"
+  },
+  {
+    "simplified": "中",
+    "traditional": "中",
+    "pinyin_fancy": "zhōng",
+    "pinyin": "zhong4",
+    "definition": "China; Chinese; within; among; in; middle; center; while (doing sth); during; to hit (the mark); to be hit by; to suffer; to win (a prize, a lottery)",
+    "words": "中、中国、中间、中文、中午、中学、中学生"
+  },
+  {
+    "simplified": "重",
+    "traditional": "重",
+    "pinyin_fancy": "zhòng",
+    "pinyin": "chong",
+    "definition": "to repeat; repetition; again; re-; classifier: layer; heavy; serious; to attach importance to",
+    "words": "重、重要"
+  },
+  {
+    "simplified": "住",
+    "traditional": "住",
+    "pinyin_fancy": "zhù",
+    "pinyin": "zhu4",
+    "definition": "to live; to dwell; to stay; to reside; to stop; (suffix indicating firmness, steadiness, or coming to a halt)",
+    "words": "住"
+  },
+  {
+    "simplified": "助",
+    "traditional": "助",
+    "pinyin_fancy": "zhù",
+    "pinyin": "zhu4",
+    "definition": "to help; to assist",
+    "words": "帮助"
+  },
+  {
+    "simplified": "桌",
+    "traditional": "桌",
+    "pinyin_fancy": "zhuō",
+    "pinyin": "zhuo1",
+    "definition": "table",
+    "words": "桌子"
+  },
+  {
+    "simplified": "子",
+    "traditional": "子",
+    "pinyin_fancy": "zi",
+    "pinyin": "zi5",
+    "definition": "son; child; seed; egg; small thing; 1st earthly branch: 11 p.m.-1 a.m., midnight, 11th solar month (7th December to 5th January), year of the Rat; Viscount, fourth of five orders of nobility 五等爵位[wǔ děng jué wèi]; (noun suffix)",
+    "words": "子"
+  },
+  {
+    "simplified": "字",
+    "traditional": "字",
+    "pinyin_fancy": "zì",
+    "pinyin": "zi4",
+    "definition": "letter; symbol; character; word; CL:個|个[gè]; courtesy or style name traditionally given to males aged 20 in dynastic China",
+    "words": "汉字"
+  },
+  {
+    "simplified": "走",
+    "traditional": "走",
+    "pinyin_fancy": "zǒu",
+    "pinyin": "zou3",
+    "definition": "to walk; to go; to run; to move (of vehicle); to visit; to leave; to go away; to die (euph.); from; through; away (in compound verbs, such as 撤走); to change (shape, form, meaning)",
+    "words": "走、走路"
+  },
+  {
+    "simplified": "最",
+    "traditional": "最",
+    "pinyin_fancy": "zuì",
+    "pinyin": "zui4",
+    "definition": "most; the most; -est (superlative suffix)",
+    "words": "最、最好、最后"
+  },
+  {
+    "simplified": "昨",
+    "traditional": "昨",
+    "pinyin_fancy": "zuó",
+    "pinyin": "zuo2",
+    "definition": "yesterday",
+    "words": "昨天"
+  },
+  {
+    "simplified": "作",
+    "traditional": "作",
+    "pinyin_fancy": "zuò",
+    "pinyin": "zuo4",
+    "definition": "to do; to grow; to write or compose; to pretend; to regard as; to feel; writings or works",
+    "words": "作"
+  },
+  {
+    "simplified": "坐",
+    "traditional": "坐",
+    "pinyin_fancy": "zuò",
+    "pinyin": "zuo4",
+    "definition": "to sit; to take a seat; to take (a bus, airplane etc); to bear fruit; variant of 座[zuò]",
+    "words": "坐、坐下"
+  },
+  {
+    "simplified": "做",
+    "traditional": "做",
+    "pinyin_fancy": "zuò",
+    "pinyin": "zuo4",
+    "definition": "to do; to make; to produce; to write; to compose; to act as; to engage in; to hold (a party); to be; to become; to function (in some capacity); to serve as; to be used for; to form (a bond or relationship); to pretend; to feign; to act a part; to put on appearance",
+    "words": "做"
+  }
+]

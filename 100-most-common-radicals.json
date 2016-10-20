@@ -1,0 +1,982 @@
+[
+  {
+    "simplified": "人",
+    "traditional": "人",
+    "other": "亻",
+    "definition": "human, person, people",
+    "pinyin": "ren2",
+    "example": "今仁休位他",
+    "notes": "Note similarity with 八, which means eight.",
+    "words": "单人旁（亻），人字头（人）"
+  },
+  {
+    "simplified": "口",
+    "traditional": "口",
+    "other": "",
+    "definition": "mouth, opening",
+    "pinyin": "kou3",
+    "example": "古可名告知",
+    "notes": "Note similarity with 囗, which always encloses characters, and means enclosure.",
+    "words": "口字旁"
+  },
+  {
+    "simplified": "土",
+    "traditional": "土",
+    "other": "",
+    "definition": "earth",
+    "pinyin": "tu3",
+    "example": "在地型城地",
+    "notes": "Note similarity with 士, which has a longer upper stroke and shorter bottom one, and means scholar.",
+    "words": "提土旁"
+  },
+  {
+    "simplified": "女",
+    "traditional": "女",
+    "other": "",
+    "definition": "woman, female",
+    "pinyin": "nu3",
+    "example": "好妄始姓安",
+    "notes": "",
+    "words": "女子旁"
+  },
+  {
+    "simplified": "心",
+    "traditional": "心",
+    "other": "忄，⺗",
+    "definition": "heart",
+    "pinyin": "xin1",
+    "example": "必忙忘性想",
+    "notes": "",
+    "words": "竖心旁（忄），心字底（心），竖心底（⺗）"
+  },
+  {
+    "simplified": "手",
+    "traditional": "手",
+    "other": "扌，龵",
+    "definition": "hand",
+    "pinyin": "shou3",
+    "example": "持掌打抱押",
+    "notes": "",
+    "words": "提手旁（扌），看字头（龵），手字旁（手）"
+  },
+  {
+    "simplified": "日",
+    "traditional": "日",
+    "other": "",
+    "definition": "sun, day",
+    "pinyin": "ri4",
+    "example": "白百明时晩",
+    "notes": "Note similarity with 曰, which is broader and lower, and means to say. Also note 白 which means white.",
+    "words": "日字旁"
+  },
+  {
+    "simplified": "月",
+    "traditional": "月",
+    "other": "",
+    "definition": "moon, month",
+    "pinyin": "yue4",
+    "example": "有服青朝明",
+    "notes": "This radical is actually two: moon 月 and meat 肉, but in modern Chinese, they look the same in most cases。",
+    "words": "月字旁"
+  },
+  {
+    "simplified": "木",
+    "traditional": "木",
+    "other": "",
+    "definition": "tree",
+    "pinyin": "mu4",
+    "example": "板相根本林",
+    "notes": "Note similarity with 禾, which means grain.",
+    "words": "木字旁"
+  },
+  {
+    "simplified": "氵",
+    "traditional": "氵",
+    "other": "水，氺",
+    "definition": "water",
+    "pinyin": "shui3",
+    "example": "永泳海洋沙",
+    "notes": "Note similarity with 冫, which means ice.",
+    "words": "水字旁（水），三点水（氵），泰字底水（氺）"
+  },
+  {
+    "simplified": "火",
+    "traditional": "火",
+    "other": "灬",
+    "definition": "fire",
+    "pinyin": "huo3",
+    "example": "灯炎焦然炸",
+    "notes": "",
+    "words": "火字旁（火），四点底（灬）"
+  },
+  {
+    "simplified": "纟",
+    "traditional": "糹",
+    "other": "糸",
+    "definition": "silk",
+    "pinyin": "(mi4)",
+    "example": "纪纸累细绩",
+    "notes": "",
+    "words": "绞丝旁（纟），独立绞丝（糸）"
+  },
+  {
+    "simplified": "艹",
+    "traditional": "艹",
+    "other": "艸",
+    "definition": "grass",
+    "pinyin": "cao3",
+    "example": "花英苦草茶",
+    "notes": "Note that when the radical is on top, the traditional variant has four strokes.",
+    "words": "草字头（艹）"
+  },
+  {
+    "simplified": "讠",
+    "traditional": "訁",
+    "other": "言",
+    "definition": "speech",
+    "pinyin": "yan2",
+    "example": "说讲识评试",
+    "notes": "",
+    "words": "言字旁（讠）note this is skinny version of character"
+  },
+  {
+    "simplified": "辶",
+    "traditional": "辶",
+    "other": "⻍",
+    "definition": "walk",
+    "pinyin": "(chuo4)",
+    "example": "迎通道这近",
+    "notes": "",
+    "words": "走之旁（⻌）"
+  },
+  {
+    "simplified": "钅",
+    "traditional": "釒",
+    "other": "金",
+    "definition": "gold, metal",
+    "pinyin": "jin1",
+    "example": "银针钱铁钟",
+    "notes": "",
+    "words": "金字旁（钅）"
+  },
+  {
+    "simplified": "刂",
+    "traditional": "刂",
+    "other": "刀",
+    "definition": "knife, sword",
+    "pinyin": "dao1",
+    "example": "分切初利刻",
+    "notes": "Note similarity with 力, which means force.",
+    "words": "立刀旁（刂），刀字旁（刀）"
+  },
+  {
+    "simplified": "宀",
+    "traditional": "宀",
+    "other": "",
+    "definition": "roof",
+    "pinyin": "(mian2)",
+    "example": "守家室字宅",
+    "notes": "Note similarity with 冖, which means cover, and with 亠, which means lid.",
+    "words": "宝盖头"
+  },
+  {
+    "simplified": "贝",
+    "traditional": "貝",
+    "other": "",
+    "definition": "shell",
+    "pinyin": "bei4",
+    "example": "财贪货贸员",
+    "notes": "Note similarity with 见, which means to see.",
+    "words": "贝字旁"
+  },
+  {
+    "simplified": "一",
+    "traditional": "一",
+    "other": "",
+    "definition": "one",
+    "pinyin": "yi1",
+    "example": "三旦正百天",
+    "notes": "",
+    "words": "横"
+  },
+  {
+    "simplified": "力",
+    "traditional": "力",
+    "other": "",
+    "definition": "power, force",
+    "pinyin": "li4",
+    "example": "力加助勉男",
+    "notes": "Note similarity with 刀, which means knife.",
+    "words": "力字旁"
+  },
+  {
+    "simplified": "又",
+    "traditional": "又",
+    "other": "",
+    "definition": "right hand",
+    "pinyin": "you4",
+    "example": "反取受左友",
+    "notes": "",
+    "words": "又字旁"
+  },
+  {
+    "simplified": "犭",
+    "traditional": "犭",
+    "other": "犬",
+    "definition": "dog",
+    "pinyin": "(quan3)",
+    "example": "犯狂狗献猪",
+    "notes": "Note similarity with 大, which means big.",
+    "words": "反犬旁（犭），犬字旁（犬）"
+  },
+  {
+    "simplified": "禾",
+    "traditional": "禾",
+    "other": "",
+    "definition": "grain",
+    "pinyin": "(he)",
+    "example": "利私季和香",
+    "notes": "Note similarity with 木, which means tree.",
+    "words": "禾木旁"
+  },
+  {
+    "simplified": "虫",
+    "traditional": "虫",
+    "other": "",
+    "definition": "insect",
+    "pinyin": "chong2",
+    "example": "強独蛇蛋蚊",
+    "notes": "Even though this radical means insect, it's used for many organisms which aren't insects according to our taxonomy.",
+    "words": "虫字旁"
+  },
+  {
+    "simplified": "阜",
+    "traditional": "阝",
+    "other": "",
+    "definition": "mound, dam",
+    "pinyin": "(fu4)",
+    "example": "防阻陆院陈",
+    "notes": "Note that there are two radicals which look like this. On the left, it means mound, dam, and on the right, it means city.",
+    "words": "双耳刀（左耳刀）"
+  },
+  {
+    "simplified": "大",
+    "traditional": "大",
+    "other": "",
+    "definition": "big, very",
+    "pinyin": "da4",
+    "example": "天尖因奇美",
+    "notes": "",
+    "words": "大字旁（头）"
+  },
+  {
+    "simplified": "广",
+    "traditional": "广",
+    "other": "",
+    "definition": "house on cliff",
+    "pinyin": "guang3",
+    "example": "店府度座庭",
+    "notes": "Note similarity with 厂, which means cliff (i.e. without the house).",
+    "words": "广字旁"
+  },
+  {
+    "simplified": "田",
+    "traditional": "田",
+    "other": "",
+    "definition": "field",
+    "pinyin": "tian2",
+    "example": "思留略番累",
+    "notes": "",
+    "words": "田字旁"
+  },
+  {
+    "simplified": "目",
+    "traditional": "目",
+    "other": "罒",
+    "definition": "eye",
+    "pinyin": "mu4",
+    "example": "眼睛看相省",
+    "notes": "Note that the horizontal version can also mean net.",
+    "words": "目字旁（目），四字头（罒）"
+  },
+  {
+    "simplified": "石",
+    "traditional": "石",
+    "other": "",
+    "definition": "stone",
+    "pinyin": "shi2",
+    "example": "砂破碑矿码",
+    "notes": "",
+    "words": "石字旁"
+  },
+  {
+    "simplified": "衤",
+    "traditional": "衤",
+    "other": "衣",
+    "definition": "clothes",
+    "pinyin": "yi1",
+    "example": "初被裁裤袜",
+    "notes": "Note similarity with  礻, which means sign, show or spirit.",
+    "words": "衣字旁（衤）"
+  },
+  {
+    "simplified": "足",
+    "traditional": "足",
+    "other": "⻊",
+    "definition": "foot",
+    "pinyin": "zu2",
+    "example": "跑跨跟路距",
+    "notes": "",
+    "words": "足字旁"
+  },
+  {
+    "simplified": "马",
+    "traditional": "馬",
+    "other": "",
+    "definition": "horse",
+    "pinyin": "ma3",
+    "example": "码驾骂驻妈",
+    "notes": "",
+    "words": "马字旁"
+  },
+  {
+    "simplified": "页",
+    "traditional": "頁",
+    "other": "",
+    "definition": "leaf",
+    "pinyin": "ye4",
+    "example": "顺须领预顶",
+    "notes": "",
+    "words": "页字旁"
+  },
+  {
+    "simplified": "巾",
+    "traditional": "巾",
+    "other": "",
+    "definition": "turban, scarf",
+    "pinyin": "(jin1)",
+    "example": "市布帝帐帽",
+    "notes": "",
+    "words": "巾字旁"
+  },
+  {
+    "simplified": "米",
+    "traditional": "米",
+    "other": "",
+    "definition": "rice",
+    "pinyin": "mi3",
+    "example": "类粉迷粗糖",
+    "notes": "",
+    "words": "米字旁"
+  },
+  {
+    "simplified": "车",
+    "traditional": "車",
+    "other": "",
+    "definition": "cart, vehicle",
+    "pinyin": "che1",
+    "example": "轮软军较输",
+    "notes": "",
+    "words": "车字旁"
+  },
+  {
+    "simplified": "八",
+    "traditional": "八",
+    "other": "",
+    "definition": "eight",
+    "pinyin": "ba1",
+    "example": "公分趴兵共",
+    "notes": "Note similarity with 人, which means human, person.",
+    "words": "八字旁（头）"
+  },
+  {
+    "simplified": "尸",
+    "traditional": "尸",
+    "other": "",
+    "definition": "corpse",
+    "pinyin": "shi1",
+    "example": "尺局尾居展",
+    "notes": "Note similarity with 戶, which means door, family.",
+    "words": "尸字头"
+  },
+  {
+    "simplified": "寸",
+    "traditional": "寸",
+    "other": "",
+    "definition": "thumb, inch",
+    "pinyin": "cun4",
+    "example": "寺尊对射付",
+    "notes": "",
+    "words": "寸字旁"
+  },
+  {
+    "simplified": "山",
+    "traditional": "山",
+    "other": "",
+    "definition": "mountain",
+    "pinyin": "shan1",
+    "example": "岩岛岁崗岔",
+    "notes": "",
+    "words": "山字旁（头）"
+  },
+  {
+    "simplified": "攵",
+    "traditional": "攵",
+    "other": "攴",
+    "definition": "knock, tap",
+    "pinyin": "(pu1)",
+    "example": "收改攻做政",
+    "notes": "Note similarity with 夊, which means to walk (slowly).",
+    "words": "反文旁（攵），旧反文旁（攴）"
+  },
+  {
+    "simplified": "彳",
+    "traditional": "彳",
+    "other": "",
+    "definition": "(small) step",
+    "pinyin": "(chi2)",
+    "example": "彼很律微德",
+    "notes": "Note similarity with 亻, which means human, person.",
+    "words": "双人旁"
+  },
+  {
+    "simplified": "十",
+    "traditional": "十",
+    "other": "",
+    "definition": "ten",
+    "pinyin": "shi2",
+    "example": "什计古叶早",
+    "notes": "",
+    "words": "十字旁（头）"
+  },
+  {
+    "simplified": "工",
+    "traditional": "工",
+    "other": "",
+    "definition": "work",
+    "pinyin": "gong1",
+    "example": "左江红巧功",
+    "notes": "",
+    "words": "工字旁"
+  },
+  {
+    "simplified": "方",
+    "traditional": "方",
+    "other": "",
+    "definition": "square, raft",
+    "pinyin": "fang1",
+    "example": "放旅族仿房",
+    "notes": "",
+    "words": "方字旁"
+  },
+  {
+    "simplified": "门",
+    "traditional": "門",
+    "other": "",
+    "definition": "gate",
+    "pinyin": "men2",
+    "example": "间闲问闭闻",
+    "notes": "",
+    "words": "门字框"
+  },
+  {
+    "simplified": "饣",
+    "traditional": "飠",
+    "other": "食",
+    "definition": "eat, food",
+    "pinyin": "shi2",
+    "example": "饭饿饮馆饱",
+    "notes": "",
+    "words": "食字旁"
+  },
+  {
+    "simplified": "欠",
+    "traditional": "欠",
+    "other": "",
+    "definition": "lack, yawn",
+    "pinyin": "qian4",
+    "example": "欢欧欲次歌",
+    "notes": "",
+    "words": "欠字旁"
+  },
+  {
+    "simplified": "儿",
+    "traditional": "儿",
+    "other": "",
+    "definition": "human, legs",
+    "pinyin": "er2",
+    "example": "元四光兄充",
+    "notes": "Note similarity with 人, which means human, person, and with 八 which means eight.",
+    "words": "儿座底"
+  },
+  {
+    "simplified": "冫",
+    "traditional": "冫",
+    "other": "",
+    "definition": "ice",
+    "pinyin": "bing1",
+    "example": "冬冷冻况净",
+    "notes": "",
+    "words": "两点水"
+  },
+  {
+    "simplified": "子",
+    "traditional": "子",
+    "other": "",
+    "definition": "child, seed",
+    "pinyin": "zi3",
+    "example": "字学存孩季",
+    "notes": "",
+    "words": "子字旁"
+  },
+  {
+    "simplified": "疒",
+    "traditional": "疒",
+    "other": "",
+    "definition": "sickness",
+    "pinyin": "(ne4)",
+    "example": "病痛疗疯痩",
+    "notes": "",
+    "words": "病字旁"
+  },
+  {
+    "simplified": "隹",
+    "traditional": "隹",
+    "other": "",
+    "definition": "(short-tailed) bird",
+    "pinyin": "(zhui1)",
+    "example": "雀集难雅谁",
+    "notes": "",
+    "words": "隹字旁"
+  },
+  {
+    "simplified": "斤",
+    "traditional": "斤",
+    "other": "",
+    "definition": "axe",
+    "pinyin": "(jin1)",
+    "example": "所新听近析",
+    "notes": "",
+    "words": "斤字旁"
+  },
+  {
+    "simplified": "亠",
+    "traditional": "亠",
+    "other": "",
+    "definition": "lid",
+    "pinyin": "(tou2)",
+    "example": "亡交京",
+    "notes": "Note similarity with  宀, which means roof, and 冖 which means cover.",
+    "words": "点横头"
+  },
+  {
+    "simplified": "王",
+    "traditional": "王",
+    "other": "玉",
+    "definition": "jade, king",
+    "pinyin": "yu4, wang2",
+    "example": "主弄皇理现",
+    "notes": "This radical is 玉, but when in composition, it looks like 王, king, and is probably more easily remembered like that.",
+    "words": "王字旁"
+  },
+  {
+    "simplified": "白",
+    "traditional": "白",
+    "other": "",
+    "definition": "white",
+    "pinyin": "bai2",
+    "example": "的皆皇怕迫",
+    "notes": "Note similarity with 日, which means sun.",
+    "words": "白字旁"
+  },
+  {
+    "simplified": "立",
+    "traditional": "立",
+    "other": "",
+    "definition": "stand, erect",
+    "pinyin": "li4",
+    "example": "音意端亲位",
+    "notes": "",
+    "words": "立字旁"
+  },
+  {
+    "simplified": "羊",
+    "traditional": "羊",
+    "other": "⺶，⺷",
+    "definition": "sheep",
+    "pinyin": "yang2",
+    "example": "着样洋美鲜",
+    "notes": "",
+    "words": "羊字旁"
+  },
+  {
+    "simplified": "艮",
+    "traditional": "艮",
+    "other": "",
+    "definition": "stopping",
+    "pinyin": "(gen4)",
+    "example": "很恨恳根眼",
+    "notes": "",
+    "words": "艮字旁"
+  },
+  {
+    "simplified": "冖",
+    "traditional": "冖",
+    "other": "",
+    "definition": "cover",
+    "pinyin": "(mi4)",
+    "example": "写军农深荣",
+    "notes": "",
+    "words": "秃宝盖"
+  },
+  {
+    "simplified": "厂",
+    "traditional": "厂",
+    "other": "",
+    "definition": "cliff",
+    "pinyin": "(han4)",
+    "example": "厚原厉厅厕",
+    "notes": "Note similarity with 广, which has ha house on top (the dot).",
+    "words": "厂字旁"
+  },
+  {
+    "simplified": "皿",
+    "traditional": "皿",
+    "other": "",
+    "definition": "dish",
+    "pinyin": "(min3)",
+    "example": "盆监盟盛盖",
+    "notes": "",
+    "words": "皿字底"
+  },
+  {
+    "simplified": "礻",
+    "traditional": "礻",
+    "other": "示",
+    "definition": "sign, spirit, show",
+    "pinyin": "shi4",
+    "example": "社神视祝祥",
+    "notes": "Note similarity with 衤, which means clothes.",
+    "words": "示字旁"
+  },
+  {
+    "simplified": "穴",
+    "traditional": "穴",
+    "other": "",
+    "definition": "cave",
+    "pinyin": "xue4",
+    "example": "空突穷究窗",
+    "notes": "",
+    "words": "穴宝盖"
+  },
+  {
+    "simplified": "走",
+    "traditional": "走",
+    "other": "",
+    "definition": "run, walk",
+    "pinyin": "zou3",
+    "example": "起超越赶徒",
+    "notes": "",
+    "words": "走字旁"
+  },
+  {
+    "simplified": "雨",
+    "traditional": "雨",
+    "other": "",
+    "definition": "rain",
+    "pinyin": "yu3",
+    "example": "雷雪霜需露",
+    "notes": "",
+    "words": "雨字头"
+  },
+  {
+    "simplified": "囗",
+    "traditional": "囗",
+    "other": "",
+    "definition": "enclosure",
+    "pinyin": "(wei2)",
+    "example": "回国因图团",
+    "notes": "Note similarity with 口, which does not enclose other components and means mouth.",
+    "words": "国字框"
+  },
+  {
+    "simplified": "小",
+    "traditional": "小",
+    "other": "⺌⺍",
+    "definition": "small",
+    "pinyin": "xiao3",
+    "example": "少肖尚尖尘",
+    "notes": "",
+    "words": "小字旁（头）"
+  },
+  {
+    "simplified": "戈",
+    "traditional": "戈",
+    "other": "",
+    "definition": "halberd",
+    "pinyin": "(ge1)",
+    "example": "成式战感我",
+    "notes": "",
+    "words": "戈字旁"
+  },
+  {
+    "simplified": "几",
+    "traditional": "几",
+    "other": "",
+    "definition": "table",
+    "pinyin": "ji1",
+    "example": "朵机风凡凤",
+    "notes": "",
+    "words": "几字旁"
+  },
+  {
+    "simplified": "舌",
+    "traditional": "舌",
+    "other": "",
+    "definition": "tongue",
+    "pinyin": "she2",
+    "example": "乱适话舍活",
+    "notes": "",
+    "words": "舌字旁"
+  },
+  {
+    "simplified": "干",
+    "traditional": "干",
+    "other": "",
+    "definition": "dry",
+    "pinyin": "gan1",
+    "example": "平刊汗旱赶",
+    "notes": "",
+    "words": "干字旁"
+  },
+  {
+    "simplified": "殳",
+    "traditional": "殳",
+    "other": "",
+    "definition": "weapon",
+    "pinyin": "(shu1)",
+    "example": "段没投般设",
+    "notes": "",
+    "words": "殳字旁"
+  },
+  {
+    "simplified": "夕",
+    "traditional": "夕",
+    "other": "",
+    "definition": "evening, sunset",
+    "pinyin": "xi1",
+    "example": "外多夜名岁",
+    "notes": "",
+    "words": "夕字旁"
+  },
+  {
+    "simplified": "止",
+    "traditional": "止",
+    "other": "",
+    "definition": "stop",
+    "pinyin": "zhi3",
+    "example": "正此步歪址",
+    "notes": "",
+    "words": "止字旁"
+  },
+  {
+    "simplified": "皮",
+    "traditional": "皮",
+    "other": "",
+    "definition": "skin",
+    "pinyin": "pi2",
+    "example": "披彼波破疲",
+    "notes": "",
+    "words": "皮字旁"
+  },
+  {
+    "simplified": "耳",
+    "traditional": "耳",
+    "other": "",
+    "definition": "ear",
+    "pinyin": "er3",
+    "example": "取闻职聪联",
+    "notes": "",
+    "words": "耳字旁"
+  },
+  {
+    "simplified": "辛",
+    "traditional": "辛",
+    "other": "",
+    "definition": "bitter",
+    "pinyin": "xin1",
+    "example": "辜辟辣辨辩",
+    "notes": "",
+    "words": "辛字旁"
+  },
+  {
+    "simplified": "阝",
+    "traditional": "阝",
+    "other": "邑",
+    "definition": "city",
+    "pinyin": "(yi4)",
+    "example": "那邦部都邮",
+    "notes": "Note that there are two radicals which look like this. On the left, it means mound, dam, and on the right, it means city.",
+    "words": "双耳刀（右耳刀）"
+  },
+  {
+    "simplified": "酉",
+    "traditional": "酉",
+    "other": "",
+    "definition": "wine",
+    "pinyin": "(you3)",
+    "example": "醉酒醒酸尊",
+    "notes": "",
+    "words": "酉字旁"
+  },
+  {
+    "simplified": "青",
+    "traditional": "青",
+    "other": "",
+    "definition": "green/blue",
+    "pinyin": "qing1",
+    "example": "请清情晴猜",
+    "notes": "",
+    "words": "青字旁"
+  },
+  {
+    "simplified": "鸟",
+    "traditional": "鳥",
+    "other": "",
+    "definition": "bird",
+    "pinyin": "niao3",
+    "example": "鸦鸣鸭岛鸡",
+    "notes": "",
+    "words": "鸟字旁"
+  },
+  {
+    "simplified": "弓",
+    "traditional": "弓",
+    "other": "",
+    "definition": "bow",
+    "pinyin": "gong1",
+    "example": "引张弱第强",
+    "notes": "",
+    "words": "弓字旁"
+  },
+  {
+    "simplified": "厶",
+    "traditional": "厶",
+    "other": "",
+    "definition": "private",
+    "pinyin": "si1",
+    "example": "公勾去私云",
+    "notes": "",
+    "words": "私字旁"
+  },
+  {
+    "simplified": "户",
+    "traditional": "户",
+    "other": "戶",
+    "definition": "door, house",
+    "pinyin": "hu4",
+    "example": "所房炉护启",
+    "notes": "Note similarity with 尸, which means corpse.",
+    "words": "户字旁"
+  },
+  {
+    "simplified": "羽",
+    "traditional": "羽",
+    "other": "",
+    "definition": "feather",
+    "pinyin": "yu3",
+    "example": "习翻翅塌扇",
+    "notes": "",
+    "words": "羽字旁"
+  },
+  {
+    "simplified": "舟",
+    "traditional": "舟",
+    "other": "",
+    "definition": "boat",
+    "pinyin": "chuan2",
+    "example": "般船航盘艇",
+    "notes": "",
+    "words": "舟字旁"
+  },
+  {
+    "simplified": "里",
+    "traditional": "里",
+    "other": "",
+    "definition": "village, mile",
+    "pinyin": "li3",
+    "example": "野重量理埋",
+    "notes": "",
+    "words": "里字旁"
+  },
+  {
+    "simplified": "匕",
+    "traditional": "匕",
+    "other": "",
+    "definition": "spoon",
+    "pinyin": "(bi3)",
+    "example": "匙比北呢旨",
+    "notes": "",
+    "words": "匕字旁"
+  },
+  {
+    "simplified": "夂",
+    "traditional": "夂",
+    "other": "",
+    "definition": "go (slowly)",
+    "pinyin": "(sui1)",
+    "example": "各條复备夏",
+    "notes": "Note similarity with 攵, which means to knock, to rap.",
+    "words": "折文旁"
+  },
+  {
+    "simplified": "见",
+    "traditional": "見",
+    "other": "",
+    "definition": "see",
+    "pinyin": "jian4",
+    "example": "观规视现觉",
+    "notes": "Note similarity with 贝, which means shell.",
+    "words": "见字旁"
+  },
+  {
+    "simplified": "卩",
+    "traditional": "卩",
+    "other": "",
+    "definition": "seal",
+    "pinyin": "(jie2)",
+    "example": "卷印却即危",
+    "notes": "",
+    "words": "单耳刀"
+  },
+  {
+    "simplified": "罒",
+    "traditional": "罒",
+    "other": "网",
+    "definition": "net",
+    "pinyin": "wang3",
+    "example": "罗罚罢罪罩",
+    "notes": "Note that the horizontal version can also mean net.",
+    "words": "四字头（罒）"
+  },
+  {
+    "simplified": "士",
+    "traditional": "士",
+    "other": "",
+    "definition": "scholar",
+    "pinyin": "shi4",
+    "example": "吉壶志声壮",
+    "notes": "Note similarity with 土, which means earth.",
+    "words": "士字旁"
+  },
+  {
+    "simplified": "勹",
+    "traditional": "勹",
+    "other": "",
+    "definition": "embrace, wrap",
+    "pinyin": "(bao1)",
+    "example": "包勿勾勺勻",
+    "notes": "",
+    "words": "包字头"
+  }
+]

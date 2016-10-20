@@ -1,8 +1,8 @@
 var yo = require('yo-yo')
 var bpmf = require('./bopomofo.js')
-var hundred = require('./one-hundred-common.json')
+var hundred = require('./100-most-common-radicals.json')
 var svgs = require('./one-hundred-svgs.json')
-var threehundred = require('./three-hundred-common.json')
+var threehundred = require('./hanban-300-characters.json')
 var threesvgs = require('./three-hundred-svgs.json')
 var interval
 var content = document.querySelector('.content')
@@ -56,20 +56,20 @@ render(0)
 
 function render (num) {
   state.current = num
-  var code = state.data[state.current][1].charCodeAt(0)
+  var code = state.data[state.current].traditional.charCodeAt(0)
   var str = state.svgs[state.current]
   str = str.replace('<svg ', '<svg foo="' + Date.now() + '" ') // force re-animation
   var b64 = "data:image/svg+xml;base64," + new Buffer(str).toString('base64')
-  var pinyin = state.data[state.current][4]
+  var pinyin = state.data[state.current].pinyin
   var html = yo`
     <div class="content">
       <img src=${b64}></img>
       <ul>
-        <li>${state.data[state.current][1]}</li>
-        <li>${state.data[state.current][3]}</li>
+        <li>${state.data[state.current].traditional}</li>
+        <li>${state.data[state.current].definition}</li>
         <li>${pinyin}</li>
         <li>${bpmf(pinyin)}</li>
-        <li class="comment">${state.data[state.current][6]}</li>
+        <li class="comment">${state.data[state.current].notes}</li>
       </ul>
     </div>
   `
@@ -87,7 +87,7 @@ function checkInput () {
   setTimeout(function () {
     var val = input.value.trim()[0]
     console.log('val', val)
-    var curchar = state.data[state.current][1]
+    var curchar = state.data[state.current].traditional
     if (val === curchar) {
       input.value = ''
       var next = state.current + 1
