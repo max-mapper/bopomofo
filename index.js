@@ -6,7 +6,7 @@ var threehundred = require('./hanban-300-characters.json')
 var threesvgs = require('./three-hundred-svgs.json')
 var interval
 var content = document.querySelector('.content')
-var input = document.querySelector('input')
+var input = document.querySelector('#write')
 
 window.bpmf = bpmf
 
@@ -74,6 +74,8 @@ function render (num) {
     </div>
   `
   yo.update(content, html)
+  input.focus()
+  input.value = ''
   clearInterval(interval)
   interval = setInterval(function () {
     render(state.current)
