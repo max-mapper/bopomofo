@@ -63,14 +63,12 @@ function render (num) {
   var pinyin = state.data[state.current].pinyin
   var html = yo`
     <div class="content">
-      <img src=${b64}></img>
-      <ul>
-        <li>${state.data[state.current].traditional}</li>
-        <li>${state.data[state.current].definition}</li>
-        <li>${pinyin}</li>
-        <li>${bpmf(pinyin)}</li>
-        <li class="comment">${state.data[state.current].notes}</li>
-      </ul>
+      <img class="strokes-img" src=${b64}></img>
+      ${state.data[state.current].traditional}<br>
+      ${state.data[state.current].definition}<br>
+      ${pinyin}<br>
+      ${bpmf(pinyin)}<br>
+      <span class="comment">${state.data[state.current].notes}</span>
     </div>
   `
   yo.update(content, html)

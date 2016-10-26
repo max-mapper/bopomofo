@@ -7,52 +7,69 @@
   <title>Bopomofo</title>
   <style type="text/css">
     html, body {
+      word-wrap: break-word;
       margin: 0;
       padding: 0;
+      font-family: -apple-system, sans-serif;
+    }
+    div, p {
+      box-sizing: border-box;
     }
     input[type="text"] {
       display: block;
       clear: both;
       border: 1px solid grey;
-      width: 75%;
+      width: 100%;
     }
-    .buttons input {
-      width: 75px;
+    .buttons button {
+      width: 85px;
+      display: block;
     }
     .buttons {
-      margin: 20px 0;
+      float: right;
+      width: 90px;
+      margin: 10px 0;
     }
     p {
       display: block;
       clear: both;
     }
-    img {
-      width: 35%;
-      float: left;
+
+    .strokes-img {
+      width: 25%;
+      margin-left: -25%;
+      position: absolute;
     }
-    ul {
-      width: 50%;
-      padding: 0;
-      list-style-type: none;
-      float: left;
+
+    .content {
+      padding: 10px;
+      padding-left: 25%;
+      width: calc(100% - 85px);
     }
+
     .comment { font-size: 11px; }
+    .wrapper {
+      display: flex;
+      width: 100%;
+    }
   </style>
 </head>
   <body>
-    <div class="content"></div>
-    <input type="text" id="write"></input>
-    <div class="buttons">
-      <button class="hundred" type="button">basic</button>
-      <button class="threehundred" type="button">intermediate</button>
-      <button class="random" type="button">random</button>
-      <button class="previous" type="button">previous</button>
-      <button class="next" type="button">next</button>
-      <button class="speak" type="button">speak</button>
-      <button class="taiwan" type="button">taiwan #1</button>
+    <div class="wrapper">
+      <div class="content"></div>
+      <div class="buttons">
+        <button class="hundred" type="button">basic</button>
+        <button class="threehundred" type="button">intermediate</button>
+        <button class="random" type="button">random</button>
+        <button class="previous" type="button">previous</button>
+        <button class="next" type="button">next</button>
+        <button class="speak" type="button">speak</button>
+        <button class="taiwan" type="button">taiwan #1</button>
+      </div>
     </div>
-    <p><img src="how.png"></img></p>
-    <p><img src="how2.png"></img></p>
+    <input type="text" id="write"></input>
+    <p><img src="how.png" width="25%"></img></p>
+    <p><img src="how2.png" width="25%"></img></p>
     <p><a href="https://github.com/maxogden/bopomofo">view source on github</a></p>
 
     <script src="bundle.js"></script>
