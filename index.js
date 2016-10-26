@@ -69,11 +69,10 @@ function render (num) {
   var html = yo`
     <div class="content">
       <img class="strokes-img" src=${b64}></img>
-      ${state.data[state.current].traditional}<br>
-      ${state.data[state.current].definition}<br>
+      <span class="char">${state.data[state.current].traditional}${prettifybpmf(pinyin)}</span>
       ${pinyin}<br>
-      ${bpmf(pinyin)}<br>
-      <span class="comment">${state.data[state.current].notes}</span>
+      <p>${state.data[state.current].definition}<br>
+      <span class="comment">${state.data[state.current].notes}</span></p>
     </div>
   `
   yo.update(content, html)
@@ -86,6 +85,33 @@ function render (num) {
 
 input.addEventListener('keypress', checkInput)
 input.addEventListener('paste', checkInput)
+
+function prettifybpmf (pinyin) {
+  var toneClass
+  var bpmfTags = []
+  bpmf(pinyin).split(",").forEach(function (py) {
+    var result = py.replace(/\(|\)|\s/g, "")
+    var tone = result[result.length - 1]
+
+    if (["ˇ","ˋ","ˊ"].indexOf(tone) >= 0) {
+      toneClass = result.length === 2 ? "bpmf-top-right" : "bpmf-side"
+    } else if (tone === "˙") {
+      toneClass = "bpmf-top"
+    }
+
+    if (toneClass) {
+      bpmfTags.push(yo`
+        <span class="bpmf">${result.substr(0, result.length - 1)} <span class="${toneClass}">${tone}</span></span>
+      `)
+    } else {
+      bpmfTags.push(yo`
+        <span class="bpmf">${result}</span>
+      `)
+    }
+  })
+
+  return bpmfTags
+}
 
 function checkInput () {
   setTimeout(function () {
