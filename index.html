@@ -6,44 +6,46 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
   <title>Bopomofo</title>
   <style type="text/css">
-    html, body {
+    body {
       word-wrap: break-word;
-      margin: 0;
+      margin: 10px;
       padding: 0;
       font-family: -apple-system, sans-serif;
     }
-    div, p {
+
+    div, p, input {
       box-sizing: border-box;
     }
+
     input[type="text"] {
-      display: block;
-      clear: both;
-      border: 1px solid grey;
       width: 100%;
+      margin-bottom: 10px;
     }
-    .buttons button {
+
+    .button {
       width: 85px;
       display: block;
+      border: 0;
+      background: #444;
+      color: #fff;
+      padding: 5px 0;
     }
+
     .buttons {
       float: right;
       width: 90px;
-      margin: 10px 0;
-    }
-    p {
-      display: block;
-      clear: both;
     }
 
     .strokes-img {
       width: 25%;
-      margin-left: -25%;
+      margin-left: calc(-25% - 10px);
+      max-height: 100%;
       position: absolute;
     }
 
     .content {
-      padding: 10px;
       padding-left: 25%;
+      position: relative;
       width: calc(100% - 85px);
     }
 
@@ -52,24 +54,30 @@
       display: flex;
       width: 100%;
     }
+
+    .help {
+      display: none;
+    }
   </style>
 </head>
   <body>
+    <input type="text" id="write"></input>
     <div class="wrapper">
       <div class="content"></div>
       <div class="buttons">
-        <button class="hundred" type="button">basic</button>
-        <button class="threehundred" type="button">intermediate</button>
-        <button class="random" type="button">random</button>
-        <button class="previous" type="button">previous</button>
-        <button class="next" type="button">next</button>
-        <button class="speak" type="button">speak</button>
-        <button class="taiwan" type="button">taiwan #1</button>
+        <button class="button hundred" type="button">basic</button>
+        <button class="button threehundred" type="button">intermediate</button>
+        <button class="button random" type="button">random</button>
+        <button class="button previous" type="button">previous</button>
+        <button class="button next" type="button">next</button>
+        <button class="button speak" type="button">speak</button>
+        <button class="button taiwan" type="button">taiwan #1</button>
       </div>
     </div>
-    <input type="text" id="write"></input>
-    <p><img src="how.png" width="25%"></img></p>
-    <p><img src="how2.png" width="25%"></img></p>
+    <div class="help">
+      <p><img src="how.png" width="25%"></img></p>
+      <p><img src="how2.png" width="25%"></img></p>
+    </div>
     <p><a href="https://github.com/maxogden/bopomofo">view source on github</a></p>
 
     <script src="bundle.js"></script>

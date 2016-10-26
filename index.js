@@ -53,8 +53,13 @@ document.querySelector('.taiwan').addEventListener('click', function () {
 })
 
 render(0)
+input.focus()
 
 function render (num) {
+  if (num !== state.current) {
+    input.value = ''
+  }
+
   state.current = num
   var code = state.data[state.current].traditional.charCodeAt(0)
   var str = state.svgs[state.current]
@@ -73,7 +78,6 @@ function render (num) {
   `
   yo.update(content, html)
   input.focus()
-  input.value = ''
   clearInterval(interval)
   interval = setInterval(function () {
     render(state.current)
