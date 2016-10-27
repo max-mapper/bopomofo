@@ -55,7 +55,6 @@ document.querySelector('.taiwan').addEventListener('click', function () {
 })
 
 render(0)
-input.focus()
 
 function render (num) {
   if (num !== state.current) {
