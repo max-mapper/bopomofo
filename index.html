@@ -10,6 +10,7 @@
       word-wrap: break-word;
       margin: 10px;
       padding: 0;
+      font-size: 14px;
       font-family: -apple-system, sans-serif;
     }
 
@@ -81,9 +82,6 @@
     }
 
     .comment { font-size: 11px; }
-    .help {
-      display: none;
-    }
 
     .clear {
       clear: both;
@@ -92,10 +90,29 @@
     .select-set {
       width: 100%;
     }
+
+    .show-help {
+      margin-right: 10px;
+    }
+
+    .help {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      overflow: scroll;
+      background: #fff;
+      padding: 10px;
+    }
+
+    .error {
+      border-color: #f55;
+    }
   </style>
 </head>
   <body>
-    <input type="text" id="write"></input>
+    <form class="form"><input type="text" class="write" autofocus></input></form>
     <div class="wrapper">
       <div class="content"></div>
       <div class="buttons">
@@ -110,11 +127,18 @@
         <button class="button taiwan" type="button">taiwan #1</button>
       </div>
     </div>
-    <div class="help">
-      <p><img src="how.png" width="25%"></img></p>
-      <p><img src="how2.png" width="25%"></img></p>
+    <div class="help" hidden>
+      <button type="button" class="hide-help">close</button>
+      <ol>
+        <li>Add keyboard "Chinese (Traditonal) – Handwriting</li>
+        <li>Draw character</li>
+        <li>Select the correct character</li>
+        <li>Tap return to submit(bottom right)</li>
+      </ol>
+      <p><img src="how.png" width="100%"></img></p>
+      <p><img src="how2.png" width="100%"></img></p>
     </div>
-    <p><a href="https://github.com/maxogden/bopomofo">view source on github</a></p>
+    <p class="clear"><button type="button" class="show-help">help</button><a href="https://github.com/maxogden/bopomofo">view source on github</a></p>
 
     <script src="bundle.js"></script>
   </body>

@@ -6,7 +6,8 @@ var words = require('./hanban-300-characters.json')
 var threesvgs = require('./three-hundred-svgs.json')
 var interval
 var content = document.querySelector('.content')
-var input = document.querySelector('#write')
+var input = document.querySelector('.write')
+var form = document.querySelector('.form')
 
 window.bpmf = bpmf
 
@@ -41,6 +42,14 @@ document.querySelector('.speak').addEventListener('click', function () {
   window.speechSynthesis.speak(msg)
 })
 
+document.querySelector('.show-help').addEventListener('click', function () {
+  document.querySelector('.help').hidden = false
+})
+
+document.querySelector('.hide-help').addEventListener('click', function () {
+  document.querySelector('.help').hidden = true
+})
+
 document.querySelector('.taiwan').addEventListener('click', function () {
   alert('yep')
 })
@@ -71,13 +80,29 @@ function render (num) {
   yo.update(content, html)
   input.focus()
   clearInterval(interval)
+  input.classList.remove('error')
   interval = setInterval(function () {
     render(state.current)
   }, 7000)
 }
 
-input.addEventListener('keypress', checkInput)
-input.addEventListener('paste', checkInput)
+form.addEventListener('submit', checkInput)
+
+function checkInput (e) {
+  var val = input.value.trim()[0]
+  console.log('val', val)
+  var curchar = state.data[state.current].traditional
+  if (val === curchar) {
+    input.value = ''
+    var next = state.current + 1
+    if (state.data[next] === undefined) next = 0
+    render(next)
+  } else {
+    input.classList.add('error')
+  }
+
+  e.preventDefault()
+}
 
 function prettifybpmf (pinyin) {
   var toneClass
@@ -104,20 +129,6 @@ function prettifybpmf (pinyin) {
   })
 
   return bpmfTags
-}
-
-function checkInput () {
-  setTimeout(function () {
-    var val = input.value.trim()[0]
-    console.log('val', val)
-    var curchar = state.data[state.current].traditional
-    if (val === curchar) {
-      input.value = ''
-      var next = state.current + 1
-      if (state.data[next] === undefined) next = 0
-      render(next)
-    }
-  }, 0)
 }
 
 window.render = render
