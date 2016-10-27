@@ -64,7 +64,7 @@ function render (num) {
       <img class="strokes-img" src=${b64}></img>
       <span class="char">${state.data[state.current].traditional}${prettifybpmf(pinyin)}</span>
       ${pinyin}<br>
-      <p>${state.data[state.current].definition}<br>
+      <p class="clear">${state.data[state.current].definition}<br>
       <span class="comment">${state.data[state.current].notes}</span></p>
     </div>
   `
