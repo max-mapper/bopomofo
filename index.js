@@ -1,8 +1,8 @@
 var yo = require('yo-yo')
 var bpmf = require('./bopomofo.js')
-var hundred = require('./100-most-common-radicals.json')
+var radicals = require('./100-most-common-radicals.json')
 var svgs = require('./one-hundred-svgs.json')
-var threehundred = require('./hanban-300-characters.json')
+var words = require('./hanban-300-characters.json')
 var threesvgs = require('./three-hundred-svgs.json')
 var interval
 var content = document.querySelector('.content')
@@ -12,20 +12,13 @@ window.bpmf = bpmf
 
 var state = {
   svgs: svgs,
-  data: hundred,
+  data: radicals,
   current: 0
 }
 
-document.querySelector('.hundred').addEventListener('click', function () {
-  state.svgs = svgs
-  state.data = hundred
-  state.current = 0
-  render(0)
-})
-
-document.querySelector('.threehundred').addEventListener('click', function () {
-  state.svgs = threesvgs
-  state.data = threehundred
+document.querySelector('.select-set').addEventListener('change', function () {
+  state.svgs = this.value === "radicals" ? svgs : threesvgs
+  state.data = this.value === "radicals" ? radicals : words
   state.current = 0
   render(0)
 })
