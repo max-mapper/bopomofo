@@ -1,24 +1,19 @@
 var yo = require('yo-yo')
 var bpmf = require('./bopomofo.js')
-var radicals = require('./100-most-common-radicals.json')
-var svgs = require('./one-hundred-svgs.json')
-var words = require('./hanban-300-characters.json')
-var threesvgs = require('./three-hundred-svgs.json')
+var radicals = require('./radicals.json')
+var words = require('./common-characters.json')
+var svgs = require('./svgs.json')
 var interval
 var content = document.querySelector('.content')
 var input = document.querySelector('.write')
 var form = document.querySelector('.form')
 
-window.bpmf = bpmf
-
 var state = {
-  svgs: svgs,
   data: radicals,
   current: 0
 }
 
 document.querySelector('.select-set').addEventListener('change', function () {
-  state.svgs = this.value === "radicals" ? svgs : threesvgs
   state.data = this.value === "radicals" ? radicals : words
   state.current = 0
   render(0)
@@ -37,7 +32,7 @@ document.querySelector('.next').addEventListener('click', function () {
 })
 
 document.querySelector('.speak').addEventListener('click', function () {
-  var msg = new SpeechSynthesisUtterance(state.data[state.current][1][0])
+  var msg = new SpeechSynthesisUtterance(state.data[state.current].traditional)
   msg.lang = 'zh-TW'
   window.speechSynthesis.speak(msg)
 })
@@ -54,6 +49,16 @@ document.querySelector('.taiwan').addEventListener('click', function () {
   alert('yep')
 })
 
+// document.querySelector('.search').addEventListener('click', function () {
+//   var val = input.value.trim()[0]
+//   if (!val) return
+//   var defn = dict[val]
+//   if (!defn) return
+//   state.data = [val]
+//   state.current = 0
+//   render(0)
+// })
+
 render(0)
 
 function render (num) {
@@ -62,18 +67,20 @@ function render (num) {
   }
 
   state.current = num
-  var code = state.data[state.current].traditional.charCodeAt(0)
-  var str = state.svgs[state.current]
-  str = str.replace('<svg ', '<svg foo="' + Date.now() + '" ') // force re-animation
-  var b64 = "data:image/svg+xml;base64," + new Buffer(str).toString('base64')
-  var pinyin = state.data[state.current].pinyin
+  var item = state.data[state.current]
+  var char = item.traditional
+  var code = char.charCodeAt(0)
+  var svgstr = svgs[char] || ''
+  if (svgstr) svgstr = svgstr.replace('<svg ', '<svg foo="' + Date.now() + '" ') // force re-animation
+  var b64 = "data:image/svg+xml;base64," + new Buffer(svgstr).toString('base64')
+  
   var html = yo`
     <div class="content">
       <img class="strokes-img" src=${b64}></img>
-      <span class="char">${state.data[state.current].traditional}${prettifybpmf(pinyin)}</span>
-      ${pinyin}<br>
-      <p class="clear">${state.data[state.current].definition}<br>
-      <span class="comment">${state.data[state.current].notes}</span></p>
+      <span class="char">${char}${prettifybpmf(item.pinyin)}</span>
+      ${item.pinyin}<br>
+      <p class="clear">${item.definition}<br>
+      <span class="comment">${item.notes}</span></p>
     </div>
   `
   yo.update(content, html)

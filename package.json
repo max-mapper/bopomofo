@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "wzrd index.js:bundle.js"
+    "start": "wzrd index.js:bundle.js",
+    "appcache": "appcache-manifest index.html *.png bundle.js --network-star -o index.appcache"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/maxogden/bopomofo#readme",
   "devDependencies": {
+    "appcache-manifest": "^1.0.4",
     "wzrd": "^1.4.0"
   },
   "browserify": {

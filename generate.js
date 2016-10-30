@@ -1,22 +1,17 @@
 var fs = require('fs')
 
-var hundo = require('./100-most-common-radicals.json')
+var rads = require('./radicals.json')
+var common = require('./common-characters.json')
 
-var svgs = []
-hundo.forEach(function (o) {
+var svgs = {}
+rads.forEach(function (o) {
   var code = o.traditional.charCodeAt(0)
-  svgs.push(fs.readFileSync('./svgs/' + code + '.svg').toString())
+  svgs[o.traditional] = fs.readFileSync('./svgs/' + code + '.svg').toString()
 })
 
-fs.writeFileSync('./one-hundred-svgs.json', JSON.stringify(svgs, null, '  '))
-
-var hanban = require('./hanban-300-characters.json')
-
-var threesvgs = []
-hanban.forEach(function (o) {
+common.forEach(function (o) {
   var code = o.traditional.charCodeAt(0)
-  console.log(o.traditional)
-  threesvgs.push(fs.readFileSync('./svgs/' + code + '.svg').toString())
+  svgs[o.traditional] = fs.readFileSync('./svgs/' + code + '.svg').toString()
 })
 
-fs.writeFileSync('./three-hundred-svgs.json', JSON.stringify(threesvgs, null, '  '))
+fs.writeFileSync('./svgs.json', JSON.stringify(svgs, null, '  '))

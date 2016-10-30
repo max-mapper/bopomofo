@@ -1,0 +1,590 @@
+[
+  {
+    "traditional": "人",
+    "pinyin": "ren2",
+    "definition": "human, person, people",
+    "notes": "Note similarity with 八, which means eight."
+  },
+  {
+    "traditional": "口",
+    "pinyin": "kou3",
+    "definition": "mouth, opening",
+    "notes": "Note similarity with 囗, which always encloses characters, and means enclosure."
+  },
+  {
+    "traditional": "土",
+    "pinyin": "tu3",
+    "definition": "earth",
+    "notes": "Note similarity with 士, which has a longer upper stroke and shorter bottom one, and means scholar."
+  },
+  {
+    "traditional": "女",
+    "pinyin": "nu3",
+    "definition": "woman, female",
+    "notes": ""
+  },
+  {
+    "traditional": "心",
+    "pinyin": "xin1",
+    "definition": "heart",
+    "notes": ""
+  },
+  {
+    "traditional": "手",
+    "pinyin": "shou3",
+    "definition": "hand",
+    "notes": ""
+  },
+  {
+    "traditional": "日",
+    "pinyin": "ri4",
+    "definition": "sun, day",
+    "notes": "Note similarity with 曰, which is broader and lower, and means to say. Also note 白 which means white."
+  },
+  {
+    "traditional": "月",
+    "pinyin": "yue4",
+    "definition": "moon, month",
+    "notes": "This radical is actually two: moon 月 and meat 肉, but in modern Chinese, they look the same in most cases。"
+  },
+  {
+    "traditional": "木",
+    "pinyin": "mu4",
+    "definition": "tree",
+    "notes": "Note similarity with 禾, which means grain."
+  },
+  {
+    "traditional": "氵",
+    "pinyin": "shui3",
+    "definition": "water",
+    "notes": "Note similarity with 冫, which means ice."
+  },
+  {
+    "traditional": "火",
+    "pinyin": "huo3",
+    "definition": "fire",
+    "notes": ""
+  },
+  {
+    "traditional": "糹",
+    "pinyin": "mi4",
+    "definition": "silk",
+    "notes": ""
+  },
+  {
+    "traditional": "艹",
+    "pinyin": "cao3",
+    "definition": "grass",
+    "notes": "Note that when the radical is on top, the traditional variant has four strokes."
+  },
+  {
+    "traditional": "訁",
+    "pinyin": "yan2",
+    "definition": "speech",
+    "notes": ""
+  },
+  {
+    "traditional": "辶",
+    "pinyin": "chuo4",
+    "definition": "walk",
+    "notes": ""
+  },
+  {
+    "traditional": "釒",
+    "pinyin": "jin1",
+    "definition": "gold, metal",
+    "notes": ""
+  },
+  {
+    "traditional": "刂",
+    "pinyin": "dao1",
+    "definition": "knife, sword",
+    "notes": "Note similarity with 力, which means force."
+  },
+  {
+    "traditional": "宀",
+    "pinyin": "mian2",
+    "definition": "roof",
+    "notes": "Note similarity with 冖, which means cover, and with 亠, which means lid."
+  },
+  {
+    "traditional": "貝",
+    "pinyin": "bei4",
+    "definition": "shell",
+    "notes": "Note similarity with 见, which means to see."
+  },
+  {
+    "traditional": "一",
+    "pinyin": "yi1",
+    "definition": "one",
+    "notes": ""
+  },
+  {
+    "traditional": "力",
+    "pinyin": "li4",
+    "definition": "power, force",
+    "notes": "Note similarity with 刀, which means knife."
+  },
+  {
+    "traditional": "又",
+    "pinyin": "you4",
+    "definition": "right hand",
+    "notes": ""
+  },
+  {
+    "traditional": "犭",
+    "pinyin": "quan3",
+    "definition": "dog",
+    "notes": "Note similarity with 大, which means big."
+  },
+  {
+    "traditional": "禾",
+    "pinyin": "he",
+    "definition": "grain",
+    "notes": "Note similarity with 木, which means tree."
+  },
+  {
+    "traditional": "虫",
+    "pinyin": "chong2",
+    "definition": "insect",
+    "notes": "Even though this radical means insect, it's used for many organisms which aren't insects according to our taxonomy."
+  },
+  {
+    "traditional": "阝",
+    "pinyin": "fu4",
+    "definition": "mound, dam",
+    "notes": "Note that there are two radicals which look like this. On the left, it means mound, dam, and on the right, it means city."
+  },
+  {
+    "traditional": "大",
+    "pinyin": "da4",
+    "definition": "big, very",
+    "notes": ""
+  },
+  {
+    "traditional": "广",
+    "pinyin": "guang3",
+    "definition": "house on cliff",
+    "notes": "Note similarity with 厂, which means cliff (i.e. without the house)."
+  },
+  {
+    "traditional": "田",
+    "pinyin": "tian2",
+    "definition": "field",
+    "notes": ""
+  },
+  {
+    "traditional": "目",
+    "pinyin": "mu4",
+    "definition": "eye",
+    "notes": "Note that the horizontal version can also mean net."
+  },
+  {
+    "traditional": "石",
+    "pinyin": "shi2",
+    "definition": "stone",
+    "notes": ""
+  },
+  {
+    "traditional": "衤",
+    "pinyin": "yi1",
+    "definition": "clothes",
+    "notes": "Note similarity with  礻, which means sign, show or spirit."
+  },
+  {
+    "traditional": "足",
+    "pinyin": "zu2",
+    "definition": "foot",
+    "notes": ""
+  },
+  {
+    "traditional": "馬",
+    "pinyin": "ma3",
+    "definition": "horse",
+    "notes": ""
+  },
+  {
+    "traditional": "頁",
+    "pinyin": "ye4",
+    "definition": "leaf",
+    "notes": ""
+  },
+  {
+    "traditional": "巾",
+    "pinyin": "jin1",
+    "definition": "turban, scarf",
+    "notes": ""
+  },
+  {
+    "traditional": "米",
+    "pinyin": "mi3",
+    "definition": "rice",
+    "notes": ""
+  },
+  {
+    "traditional": "車",
+    "pinyin": "che1",
+    "definition": "cart, vehicle",
+    "notes": ""
+  },
+  {
+    "traditional": "八",
+    "pinyin": "ba1",
+    "definition": "eight",
+    "notes": "Note similarity with 人, which means human, person."
+  },
+  {
+    "traditional": "尸",
+    "pinyin": "shi1",
+    "definition": "corpse",
+    "notes": "Note similarity with 戶, which means door, family."
+  },
+  {
+    "traditional": "寸",
+    "pinyin": "cun4",
+    "definition": "thumb, inch",
+    "notes": ""
+  },
+  {
+    "traditional": "山",
+    "pinyin": "shan1",
+    "definition": "mountain",
+    "notes": ""
+  },
+  {
+    "traditional": "攵",
+    "pinyin": "pu1",
+    "definition": "knock, tap",
+    "notes": "Note similarity with 夊, which means to walk (slowly)."
+  },
+  {
+    "traditional": "彳",
+    "pinyin": "chi2",
+    "definition": "(small) step",
+    "notes": "Note similarity with 亻, which means human, person."
+  },
+  {
+    "traditional": "十",
+    "pinyin": "shi2",
+    "definition": "ten",
+    "notes": ""
+  },
+  {
+    "traditional": "工",
+    "pinyin": "gong1",
+    "definition": "work",
+    "notes": ""
+  },
+  {
+    "traditional": "方",
+    "pinyin": "fang1",
+    "definition": "square, raft",
+    "notes": ""
+  },
+  {
+    "traditional": "門",
+    "pinyin": "men2",
+    "definition": "gate",
+    "notes": ""
+  },
+  {
+    "traditional": "飠",
+    "pinyin": "shi2",
+    "definition": "eat, food",
+    "notes": ""
+  },
+  {
+    "traditional": "欠",
+    "pinyin": "qian4",
+    "definition": "lack, yawn",
+    "notes": ""
+  },
+  {
+    "traditional": "儿",
+    "pinyin": "er2",
+    "definition": "human, legs",
+    "notes": "Note similarity with 人, which means human, person, and with 八 which means eight."
+  },
+  {
+    "traditional": "冫",
+    "pinyin": "bing1",
+    "definition": "ice",
+    "notes": ""
+  },
+  {
+    "traditional": "子",
+    "pinyin": "zi3",
+    "definition": "child, seed",
+    "notes": ""
+  },
+  {
+    "traditional": "疒",
+    "pinyin": "ne4",
+    "definition": "sickness",
+    "notes": ""
+  },
+  {
+    "traditional": "隹",
+    "pinyin": "zhui1",
+    "definition": "(short-tailed) bird",
+    "notes": ""
+  },
+  {
+    "traditional": "斤",
+    "pinyin": "jin1",
+    "definition": "axe",
+    "notes": ""
+  },
+  {
+    "traditional": "亠",
+    "pinyin": "tou2",
+    "definition": "lid",
+    "notes": "Note similarity with  宀, which means roof, and 冖 which means cover."
+  },
+  {
+    "traditional": "王",
+    "pinyin": "yu4, wang2",
+    "definition": "jade, king",
+    "notes": "This radical is 玉, but when in composition, it looks like 王, king, and is probably more easily remembered like that."
+  },
+  {
+    "traditional": "白",
+    "pinyin": "bai2",
+    "definition": "white",
+    "notes": "Note similarity with 日, which means sun."
+  },
+  {
+    "traditional": "立",
+    "pinyin": "li4",
+    "definition": "stand, erect",
+    "notes": ""
+  },
+  {
+    "traditional": "羊",
+    "pinyin": "yang2",
+    "definition": "sheep",
+    "notes": ""
+  },
+  {
+    "traditional": "艮",
+    "pinyin": "gen4",
+    "definition": "stopping",
+    "notes": ""
+  },
+  {
+    "traditional": "冖",
+    "pinyin": "mi4",
+    "definition": "cover",
+    "notes": ""
+  },
+  {
+    "traditional": "厂",
+    "pinyin": "han4",
+    "definition": "cliff",
+    "notes": "Note similarity with 广, which has ha house on top (the dot)."
+  },
+  {
+    "traditional": "皿",
+    "pinyin": "min3",
+    "definition": "dish",
+    "notes": ""
+  },
+  {
+    "traditional": "礻",
+    "pinyin": "shi4",
+    "definition": "sign, spirit, show",
+    "notes": "Note similarity with 衤, which means clothes."
+  },
+  {
+    "traditional": "穴",
+    "pinyin": "xue4",
+    "definition": "cave",
+    "notes": ""
+  },
+  {
+    "traditional": "走",
+    "pinyin": "zou3",
+    "definition": "run, walk",
+    "notes": ""
+  },
+  {
+    "traditional": "雨",
+    "pinyin": "yu3",
+    "definition": "rain",
+    "notes": ""
+  },
+  {
+    "traditional": "囗",
+    "pinyin": "wei2",
+    "definition": "enclosure",
+    "notes": "Note similarity with 口, which does not enclose other components and means mouth."
+  },
+  {
+    "traditional": "小",
+    "pinyin": "xiao3",
+    "definition": "small",
+    "notes": ""
+  },
+  {
+    "traditional": "戈",
+    "pinyin": "ge1",
+    "definition": "halberd",
+    "notes": ""
+  },
+  {
+    "traditional": "几",
+    "pinyin": "ji1",
+    "definition": "table",
+    "notes": ""
+  },
+  {
+    "traditional": "舌",
+    "pinyin": "she2",
+    "definition": "tongue",
+    "notes": ""
+  },
+  {
+    "traditional": "干",
+    "pinyin": "gan1",
+    "definition": "dry",
+    "notes": ""
+  },
+  {
+    "traditional": "殳",
+    "pinyin": "shu1",
+    "definition": "weapon",
+    "notes": ""
+  },
+  {
+    "traditional": "夕",
+    "pinyin": "xi1",
+    "definition": "evening, sunset",
+    "notes": ""
+  },
+  {
+    "traditional": "止",
+    "pinyin": "zhi3",
+    "definition": "stop",
+    "notes": ""
+  },
+  {
+    "traditional": "皮",
+    "pinyin": "pi2",
+    "definition": "skin",
+    "notes": ""
+  },
+  {
+    "traditional": "耳",
+    "pinyin": "er3",
+    "definition": "ear",
+    "notes": ""
+  },
+  {
+    "traditional": "辛",
+    "pinyin": "xin1",
+    "definition": "bitter",
+    "notes": ""
+  },
+  {
+    "traditional": "阝",
+    "pinyin": "yi4",
+    "definition": "city",
+    "notes": "Note that there are two radicals which look like this. On the left, it means mound, dam, and on the right, it means city."
+  },
+  {
+    "traditional": "酉",
+    "pinyin": "you3",
+    "definition": "wine",
+    "notes": ""
+  },
+  {
+    "traditional": "青",
+    "pinyin": "qing1",
+    "definition": "green/blue",
+    "notes": ""
+  },
+  {
+    "traditional": "鳥",
+    "pinyin": "niao3",
+    "definition": "bird",
+    "notes": ""
+  },
+  {
+    "traditional": "弓",
+    "pinyin": "gong1",
+    "definition": "bow",
+    "notes": ""
+  },
+  {
+    "traditional": "厶",
+    "pinyin": "si1",
+    "definition": "private",
+    "notes": ""
+  },
+  {
+    "traditional": "户",
+    "pinyin": "hu4",
+    "definition": "door, house",
+    "notes": "Note similarity with 尸, which means corpse."
+  },
+  {
+    "traditional": "羽",
+    "pinyin": "yu3",
+    "definition": "feather",
+    "notes": ""
+  },
+  {
+    "traditional": "舟",
+    "pinyin": "chuan2",
+    "definition": "boat",
+    "notes": ""
+  },
+  {
+    "traditional": "里",
+    "pinyin": "li3",
+    "definition": "village, mile",
+    "notes": ""
+  },
+  {
+    "traditional": "匕",
+    "pinyin": "bi3",
+    "definition": "spoon",
+    "notes": ""
+  },
+  {
+    "traditional": "夂",
+    "pinyin": "sui1",
+    "definition": "go (slowly)",
+    "notes": "Note similarity with 攵, which means to knock, to rap."
+  },
+  {
+    "traditional": "見",
+    "pinyin": "jian4",
+    "definition": "see",
+    "notes": "Note similarity with 贝, which means shell."
+  },
+  {
+    "traditional": "卩",
+    "pinyin": "jie2",
+    "definition": "seal",
+    "notes": ""
+  },
+  {
+    "traditional": "罒",
+    "pinyin": "wang3",
+    "definition": "net",
+    "notes": "Note that the horizontal version can also mean net."
+  },
+  {
+    "traditional": "士",
+    "pinyin": "shi4",
+    "definition": "scholar",
+    "notes": "Note similarity with 土, which means earth."
+  },
+  {
+    "traditional": "勹",
+    "pinyin": "bao1",
+    "definition": "embrace, wrap",
+    "notes": ""
+  }
+]
