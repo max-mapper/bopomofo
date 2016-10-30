@@ -6,55 +6,140 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
   <title>Bopomofo</title>
   <style type="text/css">
-    html, body {
-      margin: 0;
+    body {
+      word-wrap: break-word;
+      margin: 10px;
       padding: 0;
+      font-size: 14px;
+      font-family: -apple-system, sans-serif;
     }
+
+    div, p, input {
+      box-sizing: border-box;
+    }
+
     input[type="text"] {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+
+    .button {
+      width: 100%;
       display: block;
-      clear: both;
-      border: 1px solid grey;
-      width: 75%;
+      border: 0;
+      background: #444;
+      color: #fff;
+      padding: 6px 0;
+      margin-bottom: 2px;
     }
-    .buttons input {
-      width: 75px;
-    }
+
     .buttons {
-      margin: 20px 0;
+      float: left;
+      width: 90px;
     }
-    p {
-      display: block;
+
+    .strokes-img {
+      vertical-align: top;
+      width: 50px;
+    }
+
+    .content {
+      float: left;
+      width: calc(100% - 90px);
+      padding-right: 10px;
+    }
+
+    .char {
+      margin: 0 10px;
+      font-size: 40px;
+    }
+
+    .bpmf {
+      vertical-align: middle;
+      display: inline-block;
+      font-size: 15px;
+      width: 12px;
+      line-height: 14px;
+      position: relative;
+    }
+
+    .bpmf-side {
+      top: 45%;
+      right: -6px;
+      position: absolute;
+    }
+
+    .bpmf-top-right {
+      top: 0;
+      right: -6px;
+      position: absolute;
+    }
+
+    .bpmf-top {
+      top: -6px;
+      left: 50%;
+      position: absolute;
+    }
+
+    .comment { font-size: 11px; }
+
+    .clear {
       clear: both;
     }
-    img {
-      width: 35%;
-      float: left;
+
+    .select-set {
+      width: 100%;
     }
-    ul {
-      width: 50%;
-      padding: 0;
-      list-style-type: none;
-      float: left;
+
+    .show-help {
+      margin-right: 10px;
     }
-    .comment { font-size: 11px; }
+
+    .help {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      overflow: scroll;
+      background: #fff;
+      padding: 10px;
+    }
+
+    .error {
+      border-color: #f55;
+    }
   </style>
 </head>
   <body>
-    <div class="content"></div>
-    <input type="text"></input>
-    <div class="buttons">
-      <input class="hundred" type="button" value="basic"></input>
-      <input class="threehundred" type="button" value="intermediate"></input>
-      <input class="random" type="button" value="random"></input>
-      <input class="previous" type="button" value="previous"></input>
-      <input class="next" type="button" value="next"></input>
-      <input class="speak" type="button" value="speak"></input>
-      <input class="taiwan" type="button" value="taiwan #1"></input>
+    <form class="form"><input type="text" class="write" autofocus></input></form>
+    <div class="wrapper">
+      <div class="content"></div>
+      <div class="buttons">
+        <select class="select-set clear">
+          <option>radicals</option>
+          <option>words</option>
+        </select>
+        <button class="button random" type="button">random</button>
+        <button class="button previous" type="button">previous</button>
+        <button class="button next" type="button">next</button>
+        <button class="button speak" type="button">speak</button>
+        <button class="button taiwan" type="button">taiwan #1</button>
+      </div>
     </div>
-    <p><img src="how.png"></img></p>
-    <p><img src="how2.png"></img></p>
-    <p><a href="https://github.com/maxogden/bopomofo">view source on github</a></p>
-    
+    <div class="help" hidden>
+      <button type="button" class="hide-help">close</button>
+      <ol>
+        <li>Add keyboard "Chinese (Traditonal) – Handwriting</li>
+        <li>Draw character</li>
+        <li>Select the correct character</li>
+        <li>Tap return to submit(bottom right)</li>
+      </ol>
+      <p><img src="how.png" width="100%"></img></p>
+      <p><img src="how2.png" width="100%"></img></p>
+    </div>
+    <p class="clear"><button type="button" class="show-help">help</button><a href="https://github.com/maxogden/bopomofo">view source on github</a></p>
+
     <script src="bundle.js"></script>
   </body>
 </html>
