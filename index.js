@@ -1,8 +1,12 @@
 var yo = require('yo-yo')
+var vkey = require('vkey')
 var bpmf = require('./bopomofo.js')
 var radicals = require('./radicals.json')
 var words = require('./common-characters.json')
 var svgs = require('./svgs.json')
+var keys = require('./config/keyMap.json')
+var keyNames = require('./config/keyNames.js')
+
 var interval
 var content = document.querySelector('.content')
 var input = document.querySelector('.write')
@@ -12,6 +16,15 @@ var state = {
   data: radicals,
   current: 0
 }
+
+window.addEventListener('keyup', function (e) {
+  var pressed = vkey[e.keyCode]
+  var key = (keyNames[pressed] || pressed)
+  if (!key) return
+  showKeypress(key)
+  var bopokey = keys[key]
+  console.log(bopokey)
+})
 
 document.querySelector('.select-set').addEventListener('change', function () {
   state.data = this.value === "radicals" ? radicals : words
@@ -45,19 +58,27 @@ document.querySelector('.hide-help').addEventListener('click', function () {
   document.querySelector('.help').hidden = true
 })
 
+document.querySelector('.show-keyboard').addEventListener('click', function () {
+  document.querySelector('.keyboard').hidden = false
+})
+
+document.querySelector('.hide-keyboard').addEventListener('click', function () {
+  document.querySelector('.keyboard').hidden = true
+})
+
 document.querySelector('.taiwan').addEventListener('click', function () {
   alert('yep')
 })
 
-// document.querySelector('.search').addEventListener('click', function () {
-//   var val = input.value.trim()[0]
-//   if (!val) return
-//   var defn = dict[val]
-//   if (!defn) return
-//   state.data = [val]
-//   state.current = 0
-//   render(0)
-// })
+function showKeypress (pressed) {
+  var keyEl = document.querySelector('li[data-key="' + pressed.toLowerCase() + '"]')
+  if (keyEl) {
+    keyEl.classList.add('pressed')
+    setTimeout(function() {
+      keyEl.classList.remove('pressed')
+    }, 200)
+  }
+}
 
 render(0)
 
