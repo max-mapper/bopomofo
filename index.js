@@ -18,12 +18,17 @@ var state = {
 }
 
 window.addEventListener('keyup', function (e) {
+  if (document.querySelector('.keyboard').hidden) return
   var pressed = vkey[e.keyCode]
-  var key = (keyNames[pressed] || pressed)
-  if (!key) return
-  showKeypress(key)
-  var bopokey = keys[key]
-  console.log(bopokey)
+  handlePressed(pressed.toLowerCase())
+})
+
+document.querySelectorAll('.keyboard .letter, .keyboard .symbol').forEach(function (key) {
+  key.addEventListener('mousedown', function (e) {
+    var pressed = e.currentTarget.getAttribute('data-key')
+    if (!pressed) return
+    handlePressed(pressed)
+  })
 })
 
 document.querySelector('.select-set').addEventListener('change', function () {
@@ -45,9 +50,7 @@ document.querySelector('.next').addEventListener('click', function () {
 })
 
 document.querySelector('.speak').addEventListener('click', function () {
-  var msg = new SpeechSynthesisUtterance(state.data[state.current].traditional)
-  msg.lang = 'zh-TW'
-  window.speechSynthesis.speak(msg)
+  speak(state.data[state.current].traditional)
 })
 
 document.querySelector('.show-help').addEventListener('click', function () {
@@ -70,6 +73,21 @@ document.querySelector('.taiwan').addEventListener('click', function () {
   alert('yep')
 })
 
+function handlePressed (pressed) {
+  var key = (keyNames[pressed] || pressed)
+  if (!key) return
+  showKeypress(key)
+  var bopokey = keys[key]
+  console.log(bopokey)
+  speak(bopokey)
+}
+
+function speak (str) {
+  var msg = new SpeechSynthesisUtterance(str)
+  msg.lang = 'zh-TW'
+  window.speechSynthesis.speak(msg)
+}
+
 function showKeypress (pressed) {
   var keyEl = document.querySelector('li[data-key="' + pressed.toLowerCase() + '"]')
   if (keyEl) {
@@ -82,7 +100,7 @@ function showKeypress (pressed) {
 
 render(0)
 
-function render (num) {
+function render (num, noFocus) {
   if (num !== state.current) {
     input.value = ''
   }
@@ -105,11 +123,11 @@ function render (num) {
     </div>
   `
   yo.update(content, html)
-  input.focus()
   clearInterval(interval)
   input.classList.remove('error')
+  if (!noFocus) input.focus()
   interval = setInterval(function () {
-    render(state.current)
+    render(state.current, true)
   }, 7000)
 }
 
